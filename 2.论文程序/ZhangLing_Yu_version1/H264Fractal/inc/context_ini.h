@@ -1,0 +1,42 @@
+
+/*!
+ *************************************************************************************
+ * \file context_ini.h
+ *
+ * \brief
+ *    CABAC context initializations
+ *
+ * \author
+ *    Main contributors (see contributors.h for copyright, address and affiliation details)
+ *    - Detlev Marpe                    <marpe@hhi.de>
+ *    - Heiko Schwarz                   <hschwarz@hhi.de>
+ **************************************************************************************
+ */
+
+#ifndef _CONTEXT_INI_
+#define _CONTEXT_INI_
+
+
+void  create_context_memory ();
+void  free_context_memory   ();
+
+void  init_contexts  ();
+void  store_contexts ();
+
+void  update_field_frame_contexts (int);
+
+void  SetCtxModelNumber ();
+
+/////////////////////////////////////>
+
+
+void  init_contexts_dec  (struct img_par* img);
+
+
+
+/////////////////////////////////////<
+
+
+
+#endif
+

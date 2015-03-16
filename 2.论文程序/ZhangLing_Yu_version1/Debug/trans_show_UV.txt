@@ -1,0 +1,1503 @@
+
+//////////////+++++++++++++++current_frame =  1+++++++++++++++/////////////////
+
+CurrentMb=  0
+2、chroma,mode=0
+0  2  1  0  29.00  19.000
+3、chroma,mode=0
+0  7  0  0  23.00  17.000
+CurrentMb=  1
+2、chroma,mode=0
+0 -4  5  0  30.00  17.000
+3、chroma,mode=0
+0  3  4  0  22.00  14.000
+CurrentMb=  2
+2、chroma,mode=0
+0 -2  3  0  31.00  17.000
+3、chroma,mode=0
+0 -3  5  0  21.00  17.000
+CurrentMb=  3
+2、chroma,mode=0
+0 -5  7  0  33.00  18.000
+3、chroma,mode=0
+0  7  0  0  20.00  14.000
+CurrentMb=  4
+2、chroma,mode=0
+0  4  0  0  35.00  16.000
+3、chroma,mode=0
+0  6  0  0  17.00  19.000
+CurrentMb=  5
+2、chroma,mode=0
+0 -4  2  0  37.00  15.000
+3、chroma,mode=0
+0  1  2  0  14.00  20.000
+CurrentMb=  6
+2、chroma,mode=0
+0  2  4  0  38.00  14.000
+3、chroma,mode=0
+0 -3  4  0  12.00  17.000
+CurrentMb=  7
+2、chroma,mode=0
+0 -5  0  0  37.00  14.000
+3、chroma,mode=0
+0  7  5  0  11.00  20.000
+CurrentMb=  8
+2、chroma,mode=0
+0  6  5  0  37.00  11.000
+3、chroma,mode=0
+0  0  7  0  11.00  13.000
+CurrentMb=  9
+2、chroma,mode=0
+0 -5  0  0  38.00  15.000
+3、chroma,mode=0
+0  5  0  0  12.00  13.000
+CurrentMb= 10
+2、chroma,mode=0
+0  1  6  0  38.00  13.000
+3、chroma,mode=0
+0  1  2  0  13.00  18.000
+CurrentMb= 11
+2、chroma,mode=0
+0 -7  7  0  38.00  19.000
+3、chroma,mode=0
+0 -7  0  0  16.00  16.000
+CurrentMb= 12
+2、chroma,mode=0
+0  7  1  0  37.00  19.000
+3、chroma,mode=0
+0  4  7  0  17.00  19.000
+CurrentMb= 13
+2、chroma,mode=0
+0 -5  4  0  36.00  9.000
+3、chroma,mode=0
+0 -3  3  0  18.00  10.000
+CurrentMb= 14
+2、chroma,mode=0
+0  4  7  0  36.00  4.000
+3、chroma,mode=0
+0  6  0  0  18.00  7.000
+CurrentMb= 15
+2、chroma,mode=0
+0 -6  5  0  36.00  8.000
+3、chroma,mode=0
+0 -5  0  0  17.00  18.000
+CurrentMb= 16
+2、chroma,mode=0
+0 -4  7  0  36.00  8.000
+3、chroma,mode=0
+0  4  4  0  16.00  19.000
+CurrentMb= 17
+2、chroma,mode=0
+0  6  0  0  36.00  10.000
+3、chroma,mode=0
+0  0  2  0  15.00  15.000
+CurrentMb= 18
+2、chroma,mode=0
+0  7  7  0  35.00  14.000
+3、chroma,mode=0
+0  7  6  0  16.00  15.000
+CurrentMb= 19
+2、chroma,mode=0
+0  0  7  0  33.00  19.000
+3、chroma,mode=0
+0 -3  4  0  18.00  19.000
+CurrentMb= 20
+2、chroma,mode=0
+0  3  0  0  29.00  21.000
+3、chroma,mode=0
+0  1  0  0  23.00  13.000
+CurrentMb= 21
+2、chroma,mode=0
+0  2 -1  0  31.00  16.000
+3、chroma,mode=0
+0 -3  0  0  22.00  14.000
+CurrentMb= 22
+2、chroma,mode=0
+0  2  3  0  32.00  16.000
+3、chroma,mode=0
+0 -3 -7  0  21.00  15.000
+CurrentMb= 23
+2、chroma,mode=0
+0 -5 -4  0  33.00  16.000
+3、chroma,mode=0
+0  3  0  0  20.00  17.000
+CurrentMb= 24
+2、chroma,mode=0
+0  6  7  0  34.00  18.000
+3、chroma,mode=0
+0  4  0  0  18.00  18.000
+CurrentMb= 25
+2、chroma,mode=0
+0 -6  7  0  36.00  16.000
+3、chroma,mode=0
+0 -5  5  0  15.00  18.000
+CurrentMb= 26
+2、chroma,mode=0
+0 -4 -5  0  37.00  15.000
+3、chroma,mode=0
+0 -3 -6  0  13.00  16.000
+CurrentMb= 27
+2、chroma,mode=0
+0 -5 -7  0  38.00  14.000
+3、chroma,mode=0
+0  0  2  0  12.00  18.000
+CurrentMb= 28
+2、chroma,mode=0
+0  7 -5  0  38.00  12.000
+3、chroma,mode=0
+0  0 -2  0  12.00  16.000
+CurrentMb= 29
+2、chroma,mode=0
+0 -7  2  0  38.00  17.000
+3、chroma,mode=0
+0  0  0  0  12.00  19.000
+CurrentMb= 30
+2、chroma,mode=0
+0  4 -3  0  38.00  19.000
+3、chroma,mode=0
+0 -2  2  0  14.00  16.000
+CurrentMb= 31
+2、chroma,mode=0
+0  3  4  0  37.00  16.000
+3、chroma,mode=0
+0 -7 -2  0  16.00  19.000
+CurrentMb= 32
+2、chroma,mode=0
+0 -3  4  0  36.00  13.000
+3、chroma,mode=0
+0  4  4  0  17.00  14.000
+CurrentMb= 33
+2、chroma,mode=0
+0  1 -6  0  36.00  21.000
+3、chroma,mode=0
+0 -5 -4  0  18.00  12.000
+CurrentMb= 34
+2、chroma,mode=0
+0  0 -5  0  36.00  20.000
+3、chroma,mode=0
+0  2  3  0  19.00  24.000
+CurrentMb= 35
+2、chroma,mode=0
+0 -1  4  0  36.00  18.000
+3、chroma,mode=0
+0  6  4  0  18.00  13.000
+CurrentMb= 36
+2、chroma,mode=0
+0 -6  5  0  36.00  12.000
+3、chroma,mode=0
+0  3  4  0  16.00  20.000
+CurrentMb= 37
+2、chroma,mode=0
+0  7  4  0  35.00  16.000
+3、chroma,mode=0
+0 -5  7  0  15.00  10.000
+CurrentMb= 38
+2、chroma,mode=0
+0 -4  7  0  35.00  18.000
+3、chroma,mode=0
+0  4  6  0  16.00  16.000
+CurrentMb= 39
+2、chroma,mode=0
+0 -4  0  0  33.00  17.000
+3、chroma,mode=0
+0 -4  0  0  17.00  18.000
+CurrentMb= 40
+2、chroma,mode=0
+0  2  5  0  30.00  15.000
+3、chroma,mode=0
+0  7  2  0  23.00  10.000
+CurrentMb= 41
+2、chroma,mode=0
+0 -4  1  0  31.00  15.000
+3、chroma,mode=0
+0 -3 -7  0  22.00  10.000
+CurrentMb= 42
+2、chroma,mode=0
+0  1  0  0  32.00  14.000
+3、chroma,mode=0
+0  6  0  0  21.00  11.000
+CurrentMb= 43
+2、chroma,mode=0
+0  7  7  0  33.00  18.000
+3、chroma,mode=0
+0  7 -4  0  20.00  15.000
+CurrentMb= 44
+2、chroma,mode=0
+0  5 -3  0  34.00  17.000
+3、chroma,mode=0
+0  2 -3  0  18.00  17.000
+CurrentMb= 45
+2、chroma,mode=0
+0 -1 -1  0  35.00  19.000
+3、chroma,mode=0
+0 -7  0  0  16.00  18.000
+CurrentMb= 46
+2、chroma,mode=0
+0  7 -6  0  36.00  15.000
+3、chroma,mode=0
+0 -6  5  0  15.00  18.000
+CurrentMb= 47
+2、chroma,mode=0
+0  5  1  0  37.00  18.000
+3、chroma,mode=0
+0  0 -6  0  14.00  19.000
+CurrentMb= 48
+2、chroma,mode=0
+0 -1  7  0  37.00  20.000
+3、chroma,mode=0
+0 -1 -5  0  14.00  21.000
+CurrentMb= 49
+2、chroma,mode=0
+0 -5  1  0  36.00  22.000
+3、chroma,mode=0
+0 -2  0  0  14.00  21.000
+CurrentMb= 50
+2、chroma,mode=0
+0 -7  0  0  36.00  18.000
+3、chroma,mode=0
+0  0  0  0  16.00  20.000
+CurrentMb= 51
+2、chroma,mode=0
+0  1 -6  0  36.00  16.000
+3、chroma,mode=0
+0  5  3  0  17.00  18.000
+CurrentMb= 52
+2、chroma,mode=0
+0  2 -7  0  35.00  15.000
+3、chroma,mode=0
+0 -5  7  0  18.00  14.000
+CurrentMb= 53
+2、chroma,mode=0
+0 -1 -6  0  35.00  16.000
+3、chroma,mode=0
+0 -7  2  0  19.00  17.000
+CurrentMb= 54
+2、chroma,mode=0
+0 -5 -1  0  35.00  14.000
+3、chroma,mode=0
+0  3  0  0  19.00  19.000
+CurrentMb= 55
+2、chroma,mode=0
+0 -2  6  0  35.00  12.000
+3、chroma,mode=0
+0  4  3  0  18.00  14.000
+CurrentMb= 56
+2、chroma,mode=0
+0  7  6  0  35.00  14.000
+3、chroma,mode=0
+0  1 -6  0  17.00  18.000
+CurrentMb= 57
+2、chroma,mode=0
+0  3  4  0  35.00  13.000
+3、chroma,mode=0
+0 -6 -7  0  16.00  16.000
+CurrentMb= 58
+2、chroma,mode=0
+0  7  0  0  34.00  14.000
+3、chroma,mode=0
+0  5  2  0  16.00  15.000
+CurrentMb= 59
+2、chroma,mode=0
+0 -4  0  0  33.00  17.000
+3、chroma,mode=0
+0 -5 -6  0  18.00  14.000
+CurrentMb= 60
+2、chroma,mode=0
+0  3 -3  0  30.00  14.000
+3、chroma,mode=0
+0  7  1  0  23.00  7.000
+CurrentMb= 61
+2、chroma,mode=0
+0 -4 -7  0  31.00  17.000
+3、chroma,mode=0
+0 -7  4  0  22.00  10.000
+CurrentMb= 62
+2、chroma,mode=0
+0  2 -6  0  31.00  14.000
+3、chroma,mode=0
+0  6 -6  0  21.00  13.000
+CurrentMb= 63
+2、chroma,mode=0
+0  3 -1  0  32.00  17.000
+3、chroma,mode=0
+0  7 -4  0  20.00  14.000
+CurrentMb= 64
+2、chroma,mode=0
+0  1 -3  0  33.00  22.000
+3、chroma,mode=0
+0 -6 -4  0  19.00  18.000
+CurrentMb= 65
+2、chroma,mode=0
+0  7 -7  0  34.00  15.000
+3、chroma,mode=0
+0  6  0  0  18.00  19.000
+CurrentMb= 66
+2、chroma,mode=0
+0  4 -3  0  35.00  13.000
+3、chroma,mode=0
+0 -1 -3  0  17.00  17.000
+CurrentMb= 67
+2、chroma,mode=0
+0  2 -2  0  35.00  14.000
+3、chroma,mode=0
+0  1 -2  0  16.00  17.000
+CurrentMb= 68
+2、chroma,mode=0
+0  0 -5  0  35.00  14.000
+3、chroma,mode=0
+0  0 -5  0  16.00  15.000
+CurrentMb= 69
+2、chroma,mode=0
+0 -7 -7  0  35.00  14.000
+3、chroma,mode=0
+0  0  5  0  17.00  23.000
+CurrentMb= 70
+2、chroma,mode=0
+0 -7  7  0  35.00  15.000
+3、chroma,mode=0
+0 -6 -6  0  17.00  13.000
+CurrentMb= 71
+2、chroma,mode=0
+0 -4 -4  0  34.00  11.000
+3、chroma,mode=0
+0  6 -6  0  19.00  15.000
+CurrentMb= 72
+2、chroma,mode=0
+0  2 -6  0  34.00  14.000
+3、chroma,mode=0
+0 -6 -6  0  19.00  10.000
+CurrentMb= 73
+2、chroma,mode=0
+0  1 -1  0  34.00  20.000
+3、chroma,mode=0
+0  7 -6  0  20.00  12.000
+CurrentMb= 74
+2、chroma,mode=0
+0  0 -6  0  34.00  16.000
+3、chroma,mode=0
+0  0 -7  0  20.00  12.000
+CurrentMb= 75
+2、chroma,mode=0
+0  3 -6  0  34.00  13.000
+3、chroma,mode=0
+0  3 -1  0  19.00  18.000
+CurrentMb= 76
+2、chroma,mode=0
+0 -6 -4  0  34.00  16.000
+3、chroma,mode=0
+0 -6 -7  0  18.00  14.000
+CurrentMb= 77
+2、chroma,mode=0
+0 -5 -7  0  34.00  16.000
+3、chroma,mode=0
+0 -5 -4  0  18.00  16.000
+CurrentMb= 78
+2、chroma,mode=0
+0  2 -7  0  33.00  15.000
+3、chroma,mode=0
+0  0 -3  0  18.00  18.000
+CurrentMb= 79
+2、chroma,mode=0
+0 -2 -4  0  32.00  19.000
+3、chroma,mode=0
+0 -3 -6  0  19.00  14.000
+CurrentMb= 80
+2、chroma,mode=0
+0  0  5  0  30.00  14.000
+3、chroma,mode=0
+0  7 -7  0  23.00  7.000
+CurrentMb= 81
+2、chroma,mode=0
+0  1  0  0  30.00  12.000
+3、chroma,mode=0
+0  1  0  0  22.00  15.000
+CurrentMb= 82
+2、chroma,mode=0
+0  0  0  0  31.00  19.000
+3、chroma,mode=0
+0  0  1  0  22.00  18.000
+CurrentMb= 83
+2、chroma,mode=0
+0 -1 -4  0  32.00  18.000
+3、chroma,mode=0
+0 -7  0  0  21.00  14.000
+CurrentMb= 84
+2、chroma,mode=0
+0 -6  6  0  33.00  18.000
+3、chroma,mode=0
+0  2  2  0  20.00  15.000
+CurrentMb= 85
+2、chroma,mode=0
+0  6  4  0  33.00  17.000
+3、chroma,mode=0
+0  7  4  0  19.00  16.000
+CurrentMb= 86
+2、chroma,mode=0
+0 -4  1  0  33.00  18.000
+3、chroma,mode=0
+0  1  1  0  18.00  20.000
+CurrentMb= 87
+2、chroma,mode=0
+0  0  1  0  34.00  19.000
+3、chroma,mode=0
+0  4  2  0  18.00  18.000
+CurrentMb= 88
+2、chroma,mode=0
+0  1  0  0  33.00  17.000
+3、chroma,mode=0
+0  0  0  0  18.00  21.000
+CurrentMb= 89
+2、chroma,mode=0
+0  0  0  0  32.00  20.000
+3、chroma,mode=0
+0  0  0  0  19.00  21.000
+CurrentMb= 90
+2、chroma,mode=0
+0  1 -4  0  33.00  16.000
+3、chroma,mode=0
+0 -7 -5  0  19.00  16.000
+CurrentMb= 91
+2、chroma,mode=0
+0 -1 -3  0  33.00  18.000
+3、chroma,mode=0
+0  4 -5  0  20.00  16.000
+CurrentMb= 92
+2、chroma,mode=0
+0 -7 -2  0  33.00  17.000
+3、chroma,mode=0
+0 -7 -6  0  20.00  14.000
+CurrentMb= 93
+2、chroma,mode=0
+0 -3 -5  0  33.00  15.000
+3、chroma,mode=0
+0  4  4  0  21.00  22.000
+CurrentMb= 94
+2、chroma,mode=0
+0  3 -4  0  33.00  13.000
+3、chroma,mode=0
+0  0  5  0  21.00  28.000
+CurrentMb= 95
+2、chroma,mode=0
+0  0 -5  0  33.00  19.000
+3、chroma,mode=0
+0 -5 -6  0  20.00  18.000
+CurrentMb= 96
+2、chroma,mode=0
+0  0  0  0  30.00  20.000
+3、chroma,mode=0
+0  0  0  0  22.00  20.000
+CurrentMb= 97
+2、chroma,mode=0
+0  0  5  0  33.00  12.000
+3、chroma,mode=0
+0  0  4  0  19.00  15.000
+CurrentMb= 98
+2、chroma,mode=0
+0  0  1  0  32.00  13.000
+3、chroma,mode=0
+0  0  0  0  19.00  20.000
+CurrentMb= 99
+2、chroma,mode=0
+0  0  0  0  32.00  16.000
+3、chroma,mode=0
+0  0 -4  0  20.00  20.000
+CurrentMb=100
+2、chroma,mode=0
+0  0 -3  0  30.00  15.000
+3、chroma,mode=0
+0  7  0  0  23.00  8.000
+CurrentMb=101
+2、chroma,mode=0
+0  1  0  0  30.00  17.000
+3、chroma,mode=0
+0  0  0  0  23.00  22.000
+CurrentMb=102
+2、chroma,mode=0
+0  0  0  0  27.00  21.000
+3、chroma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=103
+2、chroma,mode=0
+0  0  2  0  31.00  17.000
+3、chroma,mode=0
+0  0  1  0  22.00  23.000
+CurrentMb=104
+2、chroma,mode=0
+0  0 -1  0  32.00  18.000
+3、chroma,mode=0
+0  5 -1  0  21.00  15.000
+CurrentMb=105
+2、chroma,mode=0
+0  4 -3  0  32.00  16.000
+3、chroma,mode=0
+0 -5  1  0  20.00  15.000
+CurrentMb=106
+2、chroma,mode=0
+0  4 -1  0  32.00  14.000
+3、chroma,mode=0
+0  0  6  0  20.00  20.000
+CurrentMb=107
+2、chroma,mode=0
+0  0 -1  0  32.00  14.000
+3、chroma,mode=0
+0  1  6  0  20.00  18.000
+CurrentMb=108
+2、chroma,mode=0
+0  0  0  0  30.00  20.000
+3、chroma,mode=0
+0  0  0  0  22.00  20.000
+CurrentMb=109
+2、chroma,mode=0
+0  0  0  0  28.00  19.000
+3、chroma,mode=0
+0  0  0  0  24.00  20.000
+CurrentMb=110
+2、chroma,mode=0
+0  0  3  0  32.00  18.000
+3、chroma,mode=0
+0  0  3  0  21.00  15.000
+CurrentMb=111
+2、chroma,mode=0
+0  3  4  0  32.00  12.000
+3、chroma,mode=0
+0  5 -3  0  21.00  18.000
+CurrentMb=112
+2、chroma,mode=0
+0  1 -6  0  32.00  15.000
+3、chroma,mode=0
+0 -5  3  0  21.00  14.000
+CurrentMb=113
+2、chroma,mode=0
+0  0  4  0  32.00  23.000
+3、chroma,mode=0
+0  6  3  0  21.00  14.000
+CurrentMb=114
+2、chroma,mode=0
+0  2 -2  0  32.00  16.000
+3、chroma,mode=0
+0 -1  2  0  21.00  13.000
+CurrentMb=115
+2、chroma,mode=0
+0  2  1  0  30.00  19.000
+3、chroma,mode=0
+0  2  1  0  22.00  19.000
+CurrentMb=116
+2、chroma,mode=0
+0  0  1  0  27.00  16.000
+3、chroma,mode=0
+0  0  1  0  25.00  15.000
+CurrentMb=117
+2、chroma,mode=0
+0 -4  3  0  30.00  17.000
+3、chroma,mode=0
+0 -4  3  0  22.00  18.000
+CurrentMb=118
+2、chroma,mode=0
+0  0  0  0  27.00  20.000
+3、chroma,mode=0
+0  0  0  0  24.00  20.000
+CurrentMb=119
+2、chroma,mode=0
+0  0  0  0  29.00  20.000
+3、chroma,mode=0
+0  0  0  0  23.00  20.000
+CurrentMb=120
+2、chroma,mode=0
+0  0  0  0  28.00  19.000
+3、chroma,mode=0
+0  3 -2  0  24.00  16.000
+CurrentMb=121
+2、chroma,mode=0
+0  0  0  0  28.00  20.000
+3、chroma,mode=0
+0  0  0  0  25.00  21.000
+CurrentMb=122
+2、chroma,mode=0
+0  1  2  0  27.00  17.000
+3、chroma,mode=0
+0  1  1  0  26.00  16.000
+CurrentMb=123
+2、chroma,mode=0
+0  1  2  0  30.00  19.000
+3、chroma,mode=0
+0  1  2  0  23.00  19.000
+CurrentMb=124
+2、chroma,mode=0
+0  0  0  0  30.00  19.000
+3、chroma,mode=0
+0  0  0  0  23.00  19.000
+CurrentMb=125
+2、chroma,mode=0
+0  0  0  0  30.00  20.000
+3、chroma,mode=0
+0 -1  0  0  23.00  20.000
+CurrentMb=126
+2、chroma,mode=0
+0  1 -2  0  31.00  18.000
+3、chroma,mode=0
+0  0 -2  0  21.00  17.000
+CurrentMb=127
+2、chroma,mode=0
+0  5 -1  0  31.00  15.000
+3、chroma,mode=0
+0  1 -6  0  21.00  11.000
+CurrentMb=128
+2、chroma,mode=0
+0  0  0  0  30.00  21.000
+3、chroma,mode=0
+0  0  0  0  22.00  20.000
+CurrentMb=129
+2、chroma,mode=0
+0  0  0  0  24.00  17.000
+3、chroma,mode=0
+0 -2 -1  0  28.00  18.000
+CurrentMb=130
+2、chroma,mode=0
+0  0  0  0  31.00  14.000
+3、chroma,mode=0
+0  0  0  0  22.00  13.000
+CurrentMb=131
+2、chroma,mode=0
+0 -1  0  0  31.00  22.000
+3、chroma,mode=0
+0  7  0  0  22.00  18.000
+CurrentMb=132
+2、chroma,mode=0
+0  7  1  0  31.00  17.000
+3、chroma,mode=0
+0  0  0  0  22.00  18.000
+CurrentMb=133
+2、chroma,mode=0
+0 -3  0  0  31.00  20.000
+3、chroma,mode=0
+0 -4  0  0  22.00  20.000
+CurrentMb=134
+2、chroma,mode=0
+0  0  0  0  30.00  18.000
+3、chroma,mode=0
+0  0  1  0  23.00  18.000
+CurrentMb=135
+2、chroma,mode=0
+0  0  0  0  26.00  19.000
+3、chroma,mode=0
+0  0  0  0  26.00  19.000
+CurrentMb=136
+2、chroma,mode=0
+0  1  0  0  28.00  16.000
+3、chroma,mode=0
+0  0  1  0  24.00  17.000
+CurrentMb=137
+2、chroma,mode=0
+0  1  2  0  28.00  19.000
+3、chroma,mode=0
+0  1  2  0  23.00  18.000
+CurrentMb=138
+2、chroma,mode=0
+0  1  0  0  25.00  20.000
+3、chroma,mode=0
+0  0  0  0  26.00  20.000
+CurrentMb=139
+2、chroma,mode=0
+0  0  0  0  28.00  20.000
+3、chroma,mode=0
+0  0  0  0  24.00  21.000
+CurrentMb=140
+2、chroma,mode=0
+0  0  1  0  29.00  18.000
+3、chroma,mode=0
+0  1  1  0  23.00  17.000
+CurrentMb=141
+2、chroma,mode=0
+0 -1  3  0  29.00  22.000
+3、chroma,mode=0
+0  0  1  0  24.00  21.000
+CurrentMb=142
+2、chroma,mode=0
+0  0  0  0  27.00  11.000
+3、chroma,mode=0
+0  0  0  0  26.00  11.000
+CurrentMb=143
+2、chroma,mode=0
+0  0  1  0  27.00  20.000
+3、chroma,mode=0
+0  0  1  0  26.00  19.000
+CurrentMb=144
+2、chroma,mode=0
+0 -1  0  0  30.00  20.000
+3、chroma,mode=0
+0  0  0  0  23.00  19.000
+CurrentMb=145
+2、chroma,mode=0
+0  0  0  0  28.00  20.000
+3、chroma,mode=0
+0 -1  0  0  24.00  19.000
+CurrentMb=146
+2、chroma,mode=0
+0  2  1  0  30.00  15.000
+3、chroma,mode=0
+0  2  1  0  22.00  15.000
+CurrentMb=147
+2、chroma,mode=0
+0  7 -1  0  31.00  22.000
+3、chroma,mode=0
+0  7  0  0  21.00  17.000
+CurrentMb=148
+2、chroma,mode=0
+0  0  0  0  28.00  20.000
+3、chroma,mode=0
+0  0  0  0  24.00  21.000
+CurrentMb=149
+2、chroma,mode=0
+0  0  0  0  21.00  16.000
+3、chroma,mode=0
+0  2  1  0  29.00  12.000
+CurrentMb=150
+2、chroma,mode=0
+0  0  3  0  30.00  10.000
+3、chroma,mode=0
+0  0  2  0  22.00  10.000
+CurrentMb=151
+2、chroma,mode=0
+0  1  1  0  31.00  21.000
+3、chroma,mode=0
+0  0  1  0  22.00  20.000
+CurrentMb=152
+2、chroma,mode=0
+0 -2  4  0  29.00  16.000
+3、chroma,mode=0
+0 -1  5  0  23.00  17.000
+CurrentMb=153
+2、chroma,mode=0
+0 -6  2  0  28.00  21.000
+3、chroma,mode=0
+0 -6  2  0  25.00  20.000
+CurrentMb=154
+2、chroma,mode=0
+0 -2  1  0  25.00  18.000
+3、chroma,mode=0
+0 -2  1  0  28.00  18.000
+CurrentMb=155
+2、chroma,mode=0
+0  0  0  0  25.00  15.000
+3、chroma,mode=0
+0  0  1  0  28.00  17.000
+CurrentMb=156
+2、chroma,mode=0
+0  1  0  0  30.00  15.000
+3、chroma,mode=0
+0  1  2  0  22.00  10.000
+CurrentMb=157
+2、chroma,mode=0
+0  0  0  0  28.00  20.000
+3、chroma,mode=0
+0  0  1  0  23.00  18.000
+CurrentMb=158
+2、chroma,mode=0
+0  0  0  0  26.00  19.000
+3、chroma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=159
+2、chroma,mode=0
+0  0  0  0  28.00  18.000
+3、chroma,mode=0
+0  0  0  0  23.00  18.000
+CurrentMb=160
+2、chroma,mode=0
+0  2 -1  0  28.00  18.000
+3、chroma,mode=0
+0  3 -1  0  24.00  19.000
+CurrentMb=161
+2、chroma,mode=0
+0  0  0  0  27.00  16.000
+3、chroma,mode=0
+0  0  0  0  27.00  19.000
+CurrentMb=162
+2、chroma,mode=0
+0  2  6  0  26.00  -8.000
+3、chroma,mode=0
+0 -1  1  0  27.00  14.000
+CurrentMb=163
+2、chroma,mode=0
+0 -2  0  0  27.00  24.000
+3、chroma,mode=0
+0 -1  0  0  27.00  14.000
+CurrentMb=164
+2、chroma,mode=0
+0 -1  0  0  27.00  18.000
+3、chroma,mode=0
+0 -1  0  0  25.00  17.000
+CurrentMb=165
+2、chroma,mode=0
+0  0  0  0  26.00  21.000
+3、chroma,mode=0
+0  0  0  0  26.00  23.000
+CurrentMb=166
+2、chroma,mode=0
+0  0  0  0  27.00  19.000
+3、chroma,mode=0
+0  0  0  0  24.00  19.000
+CurrentMb=167
+2、chroma,mode=0
+0  3 -2  0  26.00  19.000
+3、chroma,mode=0
+0  2 -1  0  24.00  17.000
+CurrentMb=168
+2、chroma,mode=0
+0  2 -2  0  22.00  18.000
+3、chroma,mode=0
+0  1 -1  0  28.00  19.000
+CurrentMb=169
+2、chroma,mode=0
+0 -1  0  0  18.00  17.000
+3、chroma,mode=0
+0 -1  0  0  31.00  15.000
+CurrentMb=170
+2、chroma,mode=0
+0 -1  0  0  23.00  19.000
+3、chroma,mode=0
+0 -2 -1  0  27.00  19.000
+CurrentMb=171
+2、chroma,mode=0
+0 -1  1  0  27.00  20.000
+3、chroma,mode=0
+0 -1  1  0  25.00  20.000
+CurrentMb=172
+2、chroma,mode=0
+0  0  0  0  27.00  20.000
+3、chroma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=173
+2、chroma,mode=0
+0  0  0  0  26.00  18.000
+3、chroma,mode=0
+0  0  0  0  26.00  19.000
+CurrentMb=174
+2、chroma,mode=0
+0 -1  1  0  26.00  15.000
+3、chroma,mode=0
+0 -1  2  0  26.00  18.000
+CurrentMb=175
+2、chroma,mode=0
+0 -1  0  0  26.00  16.000
+3、chroma,mode=0
+0  0  0  0  27.00  14.000
+CurrentMb=176
+2、chroma,mode=0
+0 -3  0  0  30.00  18.000
+3、chroma,mode=0
+0 -3  0  0  22.00  18.000
+CurrentMb=177
+2、chroma,mode=0
+0 -2  0  0  26.00  14.000
+3、chroma,mode=0
+0 -1  0  0  25.00  15.000
+CurrentMb=178
+2、chroma,mode=0
+0  0  1  0  26.00  16.000
+3、chroma,mode=0
+0  0  1  0  25.00  13.000
+CurrentMb=179
+2、chroma,mode=0
+0  0  0  0  28.00  19.000
+3、chroma,mode=0
+0  0  1  0  24.00  20.000
+CurrentMb=180
+2、chroma,mode=0
+0  0  1  0  27.00  22.000
+3、chroma,mode=0
+0  0  0  0  25.00  27.000
+CurrentMb=181
+2、chroma,mode=0
+0 -1  0  0  26.00  13.000
+3、chroma,mode=0
+0  0  0  0  26.00  12.000
+CurrentMb=182
+2、chroma,mode=0
+0 -1  0  0  26.00  17.000
+3、chroma,mode=0
+0 -1  0  0  26.00  19.000
+CurrentMb=183
+2、chroma,mode=0
+0  5 -3  0  26.00  9.000
+3、chroma,mode=0
+0 -3  1  0  27.00  12.000
+CurrentMb=184
+2、chroma,mode=0
+0  0  0  0  27.00  21.000
+3、chroma,mode=0
+0  0 -1  0  25.00  22.000
+CurrentMb=185
+2、chroma,mode=0
+0  0  0  0  26.00  19.000
+3、chroma,mode=0
+0  0  0  0  26.00  19.000
+CurrentMb=186
+2、chroma,mode=0
+0  0  0  0  25.00  20.000
+3、chroma,mode=0
+0  0  0  0  26.00  19.000
+CurrentMb=187
+2、chroma,mode=0
+0  1 -1  0  23.00  17.000
+3、chroma,mode=0
+0  1 -1  0  27.00  16.000
+CurrentMb=188
+2、chroma,mode=0
+0 -1 -1  0  19.00  17.000
+3、chroma,mode=0
+0 -1 -1  0  30.00  19.000
+CurrentMb=189
+2、chroma,mode=0
+0 -2  0  0  18.00  13.000
+3、chroma,mode=0
+0 -3  0  0  30.00  16.000
+CurrentMb=190
+2、chroma,mode=0
+0 -3  0  0  20.00  17.000
+3、chroma,mode=0
+0 -2 -1  0  29.00  20.000
+CurrentMb=191
+2、chroma,mode=0
+0  0  0  0  24.00  18.000
+3、chroma,mode=0
+0  0  0  0  27.00  18.000
+CurrentMb=192
+2、chroma,mode=0
+0  0  0  0  25.00  20.000
+3、chroma,mode=0
+0  0  0  0  27.00  21.000
+CurrentMb=193
+2、chroma,mode=0
+0  0  0  0  25.00  17.000
+3、chroma,mode=0
+0  1  0  0  27.00  18.000
+CurrentMb=194
+2、chroma,mode=0
+0  0  0  0  25.00  13.000
+3、chroma,mode=0
+0  0  1  0  29.00  21.000
+CurrentMb=195
+2、chroma,mode=0
+0  1 -1  0  24.00  11.000
+3、chroma,mode=0
+0  0  0  0  29.00  19.000
+CurrentMb=196
+2、chroma,mode=0
+0 -3  0  0  25.00  17.000
+3、chroma,mode=0
+0 -3 -1  0  26.00  12.000
+CurrentMb=197
+2、chroma,mode=0
+0 -3  0  0  26.00  20.000
+3、chroma,mode=0
+0 -3  0  0  26.00  17.000
+CurrentMb=198
+2、chroma,mode=0
+0 -1  0  0  25.00  19.000
+3、chroma,mode=0
+0 -1  1  0  26.00  18.000
+CurrentMb=199
+2、chroma,mode=0
+0  0  0  0  27.00  19.000
+3、chroma,mode=0
+0  0  0  0  25.00  21.000
+CurrentMb=200
+2、chroma,mode=0
+0  0  0  0  26.00  17.000
+3、chroma,mode=0
+0  1  0  0  26.00  18.000
+CurrentMb=201
+2、chroma,mode=0
+0 -2  0  0  26.00  15.000
+3、chroma,mode=0
+0 -2  0  0  25.00  15.000
+CurrentMb=202
+2、chroma,mode=0
+0 -2 -1  0  26.00  16.000
+3、chroma,mode=0
+0 -3  0  0  26.00  13.000
+CurrentMb=203
+2、chroma,mode=0
+0 -1  0  0  26.00  19.000
+3、chroma,mode=0
+0 -2  0  0  26.00  19.000
+CurrentMb=204
+2、chroma,mode=0
+0  0  0  0  27.00  25.000
+3、chroma,mode=0
+0 -2  0  0  25.00  22.000
+CurrentMb=205
+2、chroma,mode=0
+0 -1 -5  0  27.00  14.000
+3、chroma,mode=0
+0  1  2  0  25.00  8.000
+CurrentMb=206
+2、chroma,mode=0
+0  0  0  0  25.00  19.000
+3、chroma,mode=0
+0  0  0  0  26.00  19.000
+CurrentMb=207
+2、chroma,mode=0
+0  0  0  0  23.00  19.000
+3、chroma,mode=0
+0  0  0  0  27.00  18.000
+CurrentMb=208
+2、chroma,mode=0
+0 -3 -1  0  23.00  17.000
+3、chroma,mode=0
+0 -2 -2  0  27.00  16.000
+CurrentMb=209
+2、chroma,mode=0
+0 -3  0  0  24.00  19.000
+3、chroma,mode=0
+0 -3  0  0  27.00  18.000
+CurrentMb=210
+2、chroma,mode=0
+0  0  0  0  25.00  11.000
+3、chroma,mode=0
+0  1  0  0  26.00  13.000
+CurrentMb=211
+2、chroma,mode=0
+0  0  0  0  23.00  20.000
+3、chroma,mode=0
+0  0  0  0  28.00  20.000
+CurrentMb=212
+2、chroma,mode=0
+0  0  0  0  25.00  18.000
+3、chroma,mode=0
+0  0  0  0  27.00  19.000
+CurrentMb=213
+2、chroma,mode=0
+0  0  0  0  22.00  19.000
+3、chroma,mode=0
+0  1 -1  0  31.00  18.000
+CurrentMb=214
+2、chroma,mode=0
+0  1 -3  0  24.00  14.000
+3、chroma,mode=0
+0  1 -3  0  30.00  16.000
+CurrentMb=215
+2、chroma,mode=0
+0 -2  2  0  24.00  16.000
+3、chroma,mode=0
+0 -2  1  0  30.00  16.000
+CurrentMb=216
+2、chroma,mode=0
+0 -1 -1  0  24.00  20.000
+3、chroma,mode=0
+0 -1 -1  0  31.00  21.000
+CurrentMb=217
+2、chroma,mode=0
+0  0  0  0  23.00  19.000
+3、chroma,mode=0
+0  0  1  0  28.00  24.000
+CurrentMb=218
+2、chroma,mode=0
+0 -1  0  0  24.00  18.000
+3、chroma,mode=0
+0  1  1  0  27.00  20.000
+CurrentMb=219
+2、chroma,mode=0
+0  0  0  0  24.00  20.000
+3、chroma,mode=0
+0  0  0  0  27.00  18.000
+CurrentMb=220
+2、chroma,mode=0
+0  0  0  0  23.00  19.000
+3、chroma,mode=0
+0  0  0  0  28.00  19.000
+CurrentMb=221
+2、chroma,mode=0
+0  0  0  0  24.00  20.000
+3、chroma,mode=0
+0  0  0  0  27.00  21.000
+CurrentMb=222
+2、chroma,mode=0
+0  0  0  0  22.00  19.000
+3、chroma,mode=0
+0  0  0  0  29.00  19.000
+CurrentMb=223
+2、chroma,mode=0
+0  3 -1  0  23.00  19.000
+3、chroma,mode=0
+0  3 -1  0  28.00  18.000
+CurrentMb=224
+2、chroma,mode=0
+0 -1  1  0  27.00  16.000
+3、chroma,mode=0
+0 -3  4  0  25.00  10.000
+CurrentMb=225
+2、chroma,mode=0
+0  2 -3  0  27.00  16.000
+3、chroma,mode=0
+0 -5 -6  0  25.00  6.000
+CurrentMb=226
+2、chroma,mode=0
+0 -2  1  0  27.00  25.000
+3、chroma,mode=0
+0  1  3  0  25.00  13.000
+CurrentMb=227
+2、chroma,mode=0
+0  0  1  0  24.00  18.000
+3、chroma,mode=0
+0 -1  0  0  27.00  19.000
+CurrentMb=228
+2、chroma,mode=0
+0 -1  0  0  22.00  20.000
+3、chroma,mode=0
+0 -1  0  0  29.00  21.000
+CurrentMb=229
+2、chroma,mode=0
+0  0  0  0  22.00  16.000
+3、chroma,mode=0
+0  0  0  0  29.00  15.000
+CurrentMb=230
+2、chroma,mode=0
+0  0  0  0  21.00  19.000
+3、chroma,mode=0
+0  0  0  0  29.00  19.000
+CurrentMb=231
+2、chroma,mode=0
+0 -1  0  0  23.00  20.000
+3、chroma,mode=0
+0 -1  0  0  28.00  19.000
+CurrentMb=232
+2、chroma,mode=0
+0  0 -1  0  25.00  20.000
+3、chroma,mode=0
+0 -1 -1  0  29.00  19.000
+CurrentMb=233
+2、chroma,mode=0
+0 -1 -1  0  23.00  15.000
+3、chroma,mode=0
+0 -2 -1  0  33.00  15.000
+CurrentMb=234
+2、chroma,mode=0
+0 -5  0  0  23.00  14.000
+3、chroma,mode=0
+0 -4  0  0  32.00  16.000
+CurrentMb=235
+2、chroma,mode=0
+0 -2 -1  0  24.00  14.000
+3、chroma,mode=0
+0 -3  1  0  30.00  17.000
+CurrentMb=236
+2、chroma,mode=0
+0 -3  2  0  22.00  20.000
+3、chroma,mode=0
+0 -3  4  0  34.00  20.000
+CurrentMb=237
+2、chroma,mode=0
+0 -1  1  0  23.00  17.000
+3、chroma,mode=0
+0 -2  1  0  32.00  19.000
+CurrentMb=238
+2、chroma,mode=0
+0  0  0  0  22.00  19.000
+3、chroma,mode=0
+0 -1  0  0  29.00  19.000
+CurrentMb=239
+2、chroma,mode=0
+0  0  0  0  24.00  20.000
+3、chroma,mode=0
+0  0  0  0  27.00  19.000
+CurrentMb=240
+2、chroma,mode=0
+0  0  0  0  25.00  16.000
+3、chroma,mode=0
+0  0  0  0  26.00  16.000
+CurrentMb=241
+2、chroma,mode=0
+0  0  0  0  24.00  19.000
+3、chroma,mode=0
+0  0  1  0  27.00  19.000
+CurrentMb=242
+2、chroma,mode=0
+0  0  0  0  22.00  19.000
+3、chroma,mode=0
+0  1 -1  0  28.00  20.000
+CurrentMb=243
+2、chroma,mode=0
+0  3 -4  0  26.00  20.000
+3、chroma,mode=0
+0  3 -4  0  26.00  19.000
+CurrentMb=244
+2、chroma,mode=0
+0 -4 -7  0  27.00  -8.000
+3、chroma,mode=0
+0 -6 -7  0  25.00  -6.000
+CurrentMb=245
+2、chroma,mode=0
+0  1 -4  0  27.00  15.000
+3、chroma,mode=0
+0  5 -5  0  25.00  8.000
+CurrentMb=246
+2、chroma,mode=0
+0 -6  5  0  27.00  10.000
+3、chroma,mode=0
+0  5 -4  0  25.00  7.000
+CurrentMb=247
+2、chroma,mode=0
+0 -3  5  0  28.00  8.000
+3、chroma,mode=0
+0 -4  0  0  25.00  18.000
+CurrentMb=248
+2、chroma,mode=0
+0 -1  0  0  24.00  20.000
+3、chroma,mode=0
+0 -1  0  0  28.00  20.000
+CurrentMb=249
+2、chroma,mode=0
+0  0  0  0  21.00  18.000
+3、chroma,mode=0
+0  0  0  0  30.00  19.000
+CurrentMb=250
+2、chroma,mode=0
+0  0  0  0  23.00  18.000
+3、chroma,mode=0
+0  1  0  0  28.00  18.000
+CurrentMb=251
+2、chroma,mode=0
+0  2 -1  0  23.00  10.000
+3、chroma,mode=0
+0  2 -1  0  28.00  10.000
+CurrentMb=252
+2、chroma,mode=0
+0  1 -1  0  26.00  24.000
+3、chroma,mode=0
+0  1 -1  0  27.00  20.000
+CurrentMb=253
+2、chroma,mode=0
+0 -4 -2  0  26.00  17.000
+3、chroma,mode=0
+0 -3 -2  0  27.00  16.000
+CurrentMb=254
+2、chroma,mode=0
+0 -6 -2  0  25.00  18.000
+3、chroma,mode=0
+0 -5 -2  0  29.00  19.000
+CurrentMb=255
+2、chroma,mode=0
+0 -4 -1  0  25.00  21.000
+3、chroma,mode=0
+0 -4  0  0  28.00  19.000
+CurrentMb=256
+2、chroma,mode=0
+0 -6  1  0  25.00  20.000
+3、chroma,mode=0
+0 -5  1  0  30.00  20.000
+CurrentMb=257
+2、chroma,mode=0
+0 -3  1  0  25.00  19.000
+3、chroma,mode=0
+0 -4  2  0  28.00  25.000
+CurrentMb=258
+2、chroma,mode=0
+0  1  0  0  24.00  18.000
+3、chroma,mode=0
+0  1  0  0  27.00  16.000
+CurrentMb=259
+2、chroma,mode=0
+0  0  0  0  24.00  19.000
+3、chroma,mode=0
+0  0  0  0  27.00  19.000
+CurrentMb=260
+2、chroma,mode=0
+0  0  0  0  24.00  18.000
+3、chroma,mode=0
+0  0  1  0  27.00  17.000
+CurrentMb=261
+2、chroma,mode=0
+0  0  0  0  25.00  18.000
+3、chroma,mode=0
+0  1  0  0  27.00  17.000
+CurrentMb=262
+2、chroma,mode=0
+0  0  0  0  22.00  19.000
+3、chroma,mode=0
+0  0  0  0  29.00  19.000
+CurrentMb=263
+2、chroma,mode=0
+0 -1 -1  0  25.00  19.000
+3、chroma,mode=0
+0  0 -1  0  27.00  21.000
+CurrentMb=264
+2、chroma,mode=0
+0  4  0  0  27.00  11.000
+3、chroma,mode=0
+0 -2 -4  0  25.00  16.000
+CurrentMb=265
+2、chroma,mode=0
+0 -1 -2  0  27.00  21.000
+3、chroma,mode=0
+0 -2 -2  0  25.00  17.000
+CurrentMb=266
+2、chroma,mode=0
+0 -6 -1  0  27.00  20.000
+3、chroma,mode=0
+0  0  0  0  25.00  17.000
+CurrentMb=267
+2、chroma,mode=0
+0 -1  0  0  28.00  21.000
+3、chroma,mode=0
+0 -1  0  0  24.00  20.000
+CurrentMb=268
+2、chroma,mode=0
+0 -1  0  0  27.00  21.000
+3、chroma,mode=0
+0  0  0  0  24.00  20.000
+CurrentMb=269
+2、chroma,mode=0
+0 -1  0  0  25.00  22.000
+3、chroma,mode=0
+0 -1 -1  0  26.00  20.000
+CurrentMb=270
+2、chroma,mode=0
+0  0  0  0  27.00  23.000
+3、chroma,mode=0
+0  1  0  0  25.00  25.000
+CurrentMb=271
+2、chroma,mode=0
+0 -2  0  0  27.00  18.000
+3、chroma,mode=0
+0 -1  1  0  25.00  16.000
+CurrentMb=272
+2、chroma,mode=0
+0 -1 -1  0  27.00  16.000
+3、chroma,mode=0
+0 -2 -1  0  25.00  16.000
+CurrentMb=273
+2、chroma,mode=0
+0  0  4  0  26.00  14.000
+3、chroma,mode=0
+0  0  3  0  26.00  13.000
+CurrentMb=274
+2、chroma,mode=0
+0 -5  0  0  26.00  23.000
+3、chroma,mode=0
+0 -5  0  0  26.00  24.000
+CurrentMb=275
+2、chroma,mode=0
+0 -4  0  0  26.00  18.000
+3、chroma,mode=0
+0 -4  0  0  26.00  19.000
+CurrentMb=276
+2、chroma,mode=0
+0 -2  0  0  25.00  21.000
+3、chroma,mode=0
+0 -1  0  0  27.00  21.000
+CurrentMb=277
+2、chroma,mode=0
+0  0  0  0  24.00  20.000
+3、chroma,mode=0
+0 -2  0  0  28.00  21.000
+CurrentMb=278
+2、chroma,mode=0
+0  1  1  0  26.00  22.000
+3、chroma,mode=0
+0  0  1  0  26.00  18.000
+CurrentMb=279
+2、chroma,mode=0
+0  0  0  0  26.00  16.000
+3、chroma,mode=0
+0  0  1  0  26.00  17.000
+CurrentMb=280
+2、chroma,mode=0
+0  1  0  0  25.00  18.000
+3、chroma,mode=0
+0  1  0  0  26.00  19.000
+CurrentMb=281
+2、chroma,mode=0
+0  0  0  0  24.00  21.000
+3、chroma,mode=0
+0  1  0  0  27.00  20.000
+CurrentMb=282
+2、chroma,mode=0
+0  0  0  0  23.00  21.000
+3、chroma,mode=0
+0  0  0  0  28.00  20.000
+CurrentMb=283
+2、chroma,mode=0
+0  1  0  0  25.00  22.000
+3、chroma,mode=0
+0  0  0  0  27.00  21.000
+CurrentMb=284
+2、chroma,mode=0
+0  0 -1  0  26.00  16.000
+3、chroma,mode=0
+0  0  0  0  26.00  19.000
+CurrentMb=285
+2、chroma,mode=0
+0  0 -1  0  26.00  21.000
+3、chroma,mode=0
+0  0 -3  0  25.00  21.000
+CurrentMb=286
+2、chroma,mode=0
+0  0  0  0  26.00  23.000
+3、chroma,mode=0
+0  3  0  0  26.00  27.000
+CurrentMb=287
+2、chroma,mode=0
+0 -1  0  0  27.00  19.000
+3、chroma,mode=0
+0 -1  0  0  25.00  20.000
+CurrentMb=288
+2、chroma,mode=0
+0 -1  0  0  27.00  17.000
+3、chroma,mode=0
+0  0  0  0  25.00  16.000
+CurrentMb=289
+2、chroma,mode=0
+0  1  0  0  26.00  22.000
+3、chroma,mode=0
+0  1  0  0  26.00  24.000
+CurrentMb=290
+2、chroma,mode=0
+0  3  0  0  26.00  15.000
+3、chroma,mode=0
+0  3  0  0  26.00  17.000
+CurrentMb=291
+2、chroma,mode=0
+0  1  0  0  25.00  17.000
+3、chroma,mode=0
+0  0 -2  0  27.00  12.000
+CurrentMb=292
+2、chroma,mode=0
+0 -1 -1  0  25.00  24.000
+3、chroma,mode=0
+0  1  0  0  27.00  24.000
+CurrentMb=293
+2、chroma,mode=0
+0 -1 -1  0  25.00  24.000
+3、chroma,mode=0
+0 -2 -1  0  27.00  21.000
+CurrentMb=294
+2、chroma,mode=0
+0 -1  0  0  24.00  16.000
+3、chroma,mode=0
+0  0  0  0  28.00  15.000
+CurrentMb=295
+2、chroma,mode=0
+0  1  0  0  24.00  19.000
+3、chroma,mode=0
+0  2  0  0  28.00  19.000
+CurrentMb=296
+2、chroma,mode=0
+0 -2  0  0  23.00  19.000
+3、chroma,mode=0
+0 -2  0  0  28.00  18.000
+CurrentMb=297
+2、chroma,mode=0
+0  0  0  0  24.00  21.000
+3、chroma,mode=0
+0 -1  0  0  28.00  20.000
+CurrentMb=298
+2、chroma,mode=0
+0  0  0  0  25.00  21.000
+3、chroma,mode=0
+0  0  0  0  27.00  24.000
+CurrentMb=299
+2、chroma,mode=0
+0  0  0  0  25.00  18.000
+3、chroma,mode=0
+0  0 -1  0  27.00  13.000

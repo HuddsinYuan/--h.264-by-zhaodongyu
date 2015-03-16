@@ -1,0 +1,3625 @@
+
+////////////////++++++++++++++current_frame =  1+++++++++++++++/////////////////
+
+CurrentMb=  0
+luma,mode=0
+0  3  7  0  5.00  13.000
+CurrentMb=  1
+luma,mode=0
+0  5  7  0  6.00  9.000
+CurrentMb=  2
+luma,mode=0
+0  7  0  0  7.00  16.000
+CurrentMb=  3
+luma,mode=0
+0 -4  0  0  8.00  21.000
+CurrentMb=  4
+luma,mode=0
+0  0  0  0  9.00  20.000
+CurrentMb=  5
+luma,mode=0
+0  0  0  0  11.00  19.000
+CurrentMb=  6
+luma,mode=0
+0  7  2  0  12.00  17.000
+CurrentMb=  7
+luma,mode=0
+0 -3  0  0  14.00  19.000
+CurrentMb=  8
+luma,mode=0
+0  0  0  0  16.00  20.000
+CurrentMb=  9
+luma,mode=0
+0  4  0  0  19.00  18.000
+CurrentMb= 10
+luma,mode=0
+0 -5  0  0  22.00  20.000
+CurrentMb= 11
+luma,mode=0
+0 -7  7  0  25.00  17.000
+CurrentMb= 12
+luma,mode=0
+0 -1  5  0  27.00  19.000
+CurrentMb= 13
+luma,mode=0
+0 -5  0  0  29.00  16.000
+CurrentMb= 14
+luma,mode=0
+0  2  5  0  29.00  10.000
+CurrentMb= 15
+luma,mode=0
+0  5  0  0  30.00  7.000
+CurrentMb= 16
+luma,mode=0
+0  7  3  0  31.00  3.000
+CurrentMb= 17
+luma,mode=0
+0  0  0  0  30.00  20.000
+CurrentMb= 18
+luma,mode=0
+0  1  0  0  29.00  11.000
+CurrentMb= 19
+luma,mode=0
+0  7  6  0  28.00  21.000
+CurrentMb= 20
+luma,mode=0
+0  7  5  0  27.00  15.000
+CurrentMb= 21
+luma,mode=0
+0  0  4  0  25.00  18.000
+CurrentMb= 22
+luma,mode=0
+0 -1  7  0  23.00  19.000
+CurrentMb= 23
+luma,mode=0
+0 -4  0  0  21.00  13.000
+CurrentMb= 24
+luma,mode=0
+0  0  1  0  20.00  19.000
+CurrentMb= 25
+luma,mode=0
+0  3  0  0  19.00  19.000
+CurrentMb= 26
+luma,mode=0
+0 -7  0  0  18.00  16.000
+CurrentMb= 27
+luma,mode=0
+0 -7  0  0  17.00  5.000
+CurrentMb= 28
+luma,mode=0
+0  7  0  0  17.00  16.000
+CurrentMb= 29
+luma,mode=0
+0  0  0  0  17.00  19.000
+CurrentMb= 30
+luma,mode=0
+0  7  0  0  17.00  12.000
+CurrentMb= 31
+luma,mode=0
+0  3  3  0  18.00  13.000
+CurrentMb= 32
+luma,mode=0
+0 -4  0  0  20.00  18.000
+CurrentMb= 33
+luma,mode=0
+0 -2  0  0  20.00  10.000
+CurrentMb= 34
+luma,mode=0
+0  0  0  0  21.00  19.000
+CurrentMb= 35
+luma,mode=0
+0  7  4  0  20.00  12.000
+CurrentMb= 36
+luma,mode=0
+0  0  3  0  19.00  12.000
+CurrentMb= 37
+luma,mode=0
+0  7  0  0  18.00  20.000
+CurrentMb= 38
+luma,mode=0
+0 -4  0  0  16.00  19.000
+CurrentMb= 39
+luma,mode=0
+0  0  7  0  13.00  20.000
+CurrentMb= 40
+luma,mode=0
+0  4 -1  0  6.00  13.000
+CurrentMb= 41
+luma,mode=0
+0  0  0  0  7.00  18.000
+CurrentMb= 42
+luma,mode=0
+0 -7  0  0  8.00  13.000
+CurrentMb= 43
+luma,mode=0
+0  7  0  0  8.00  9.000
+CurrentMb= 44
+luma,mode=0
+0  0  1  0  10.00  21.000
+CurrentMb= 45
+luma,mode=0
+0  7  2  0  11.00  14.000
+CurrentMb= 46
+luma,mode=0
+0  0  2  0  13.00  20.000
+CurrentMb= 47
+luma,mode=0
+0  3 -3  0  14.00  18.000
+CurrentMb= 48
+luma,mode=0
+0  7 -7  0  17.00  15.000
+CurrentMb= 49
+luma,mode=0
+0  4  7  0  19.00  18.000
+CurrentMb= 50
+luma,mode=0
+0  0 -4  0  22.00  20.000
+CurrentMb= 51
+luma,mode=0
+0 -4  1  0  25.00  14.000
+CurrentMb= 52
+luma,mode=0
+0  0  2  0  27.00  19.000
+CurrentMb= 53
+luma,mode=0
+0  0  6  0  28.00  15.000
+CurrentMb= 54
+luma,mode=0
+0  1  0  0  29.00  17.000
+CurrentMb= 55
+luma,mode=0
+0 -2  1  0  30.00  17.000
+CurrentMb= 56
+luma,mode=0
+0  0 -5  0  30.00  8.000
+CurrentMb= 57
+luma,mode=0
+0  0  1  0  30.00  19.000
+CurrentMb= 58
+luma,mode=0
+0  3 -7  0  29.00  10.000
+CurrentMb= 59
+luma,mode=0
+0 -1  0  0  28.00  22.000
+CurrentMb= 60
+luma,mode=0
+0  3  0  0  27.00  15.000
+CurrentMb= 61
+luma,mode=0
+0  3 -5  0  25.00  21.000
+CurrentMb= 62
+luma,mode=0
+0 -5 -5  0  23.00  17.000
+CurrentMb= 63
+luma,mode=0
+0  6 -1  0  22.00  12.000
+CurrentMb= 64
+luma,mode=0
+0 -2  6  0  20.00  22.000
+CurrentMb= 65
+luma,mode=0
+0  5  6  0  19.00  19.000
+CurrentMb= 66
+luma,mode=0
+0  1  0  0  18.00  17.000
+CurrentMb= 67
+luma,mode=0
+0 -4  0  0  17.00  10.000
+CurrentMb= 68
+luma,mode=0
+0  6 -6  0  17.00  -12.000
+CurrentMb= 69
+luma,mode=0
+0  6 -2  0  17.00  4.000
+CurrentMb= 70
+luma,mode=0
+0  6  0  0  18.00  10.000
+CurrentMb= 71
+luma,mode=0
+0  0  0  0  19.00  23.000
+CurrentMb= 72
+luma,mode=0
+0  5 -2  0  20.00  15.000
+CurrentMb= 73
+luma,mode=0
+0 -5  7  0  21.00  11.000
+CurrentMb= 74
+luma,mode=0
+0  4 -7  0  21.00  5.000
+CurrentMb= 75
+luma,mode=0
+0  5  3  0  21.00  13.000
+CurrentMb= 76
+luma,mode=0
+0  1  0  0  20.00  17.000
+CurrentMb= 77
+luma,mode=0
+0 -2  0  0  18.00  18.000
+CurrentMb= 78
+luma,mode=0
+0  4  2  0  16.00  16.000
+CurrentMb= 79
+luma,mode=0
+0  0 -1  0  14.00  21.000
+CurrentMb= 80
+luma,mode=0
+0  1  7  0  6.00  10.000
+CurrentMb= 81
+luma,mode=0
+0  7  0  0  7.00  11.000
+CurrentMb= 82
+luma,mode=0
+0 -7  0  0  8.00  13.000
+CurrentMb= 83
+luma,mode=0
+0 -7  0  0  9.00  17.000
+CurrentMb= 84
+luma,mode=0
+0  3  0  0  10.00  19.000
+CurrentMb= 85
+luma,mode=0
+0  7 -7  0  11.00  14.000
+CurrentMb= 86
+luma,mode=0
+0  0  2  0  13.00  19.000
+CurrentMb= 87
+luma,mode=0
+0  7  1  0  14.00  10.000
+CurrentMb= 88
+luma,mode=0
+0  0  3  0  17.00  19.000
+CurrentMb= 89
+luma,mode=0
+0  0  7  0  19.00  20.000
+CurrentMb= 90
+luma,mode=0
+0 -7  6  0  22.00  18.000
+CurrentMb= 91
+luma,mode=0
+0  3  7  0  24.00  16.000
+CurrentMb= 92
+luma,mode=0
+0  0  4  0  26.00  20.000
+CurrentMb= 93
+luma,mode=0
+0  4  7  0  27.00  15.000
+CurrentMb= 94
+luma,mode=0
+0  1 -7  0  28.00  13.000
+CurrentMb= 95
+luma,mode=0
+0  2  7  0  29.00  19.000
+CurrentMb= 96
+luma,mode=0
+0  7 -6  0  29.00  12.000
+CurrentMb= 97
+luma,mode=0
+0  4 -3  0  29.00  16.000
+CurrentMb= 98
+luma,mode=0
+0 -6  4  0  29.00  13.000
+CurrentMb= 99
+luma,mode=0
+0  0  0  0  28.00  19.000
+CurrentMb=100
+luma,mode=0
+0  0  0  0  26.00  22.000
+CurrentMb=101
+luma,mode=0
+0  7  0  0  25.00  14.000
+CurrentMb=102
+luma,mode=0
+0  0  0  0  23.00  20.000
+CurrentMb=103
+luma,mode=0
+0  0  0  0  21.00  21.000
+CurrentMb=104
+luma,mode=0
+0 -4 -6  0  20.00  14.000
+CurrentMb=105
+luma,mode=0
+0  6  0  0  19.00  18.000
+CurrentMb=106
+luma,mode=0
+0 -5  0  0  18.00  17.000
+CurrentMb=107
+luma,mode=0
+0  0  0  0  17.00  7.000
+CurrentMb=108
+luma,mode=0
+0  0  0  0  17.00  0.000
+CurrentMb=109
+luma,mode=0
+0  3 -7  0  17.00  4.000
+CurrentMb=110
+luma,mode=0
+0  2 -4  0  17.00  7.000
+CurrentMb=111
+luma,mode=0
+0  3  0  0  19.00  19.000
+CurrentMb=112
+luma,mode=0
+0 -5  0  0  20.00  19.000
+CurrentMb=113
+luma,mode=0
+0 -7  7  0  21.00  6.000
+CurrentMb=114
+luma,mode=0
+0 -7 -3  0  21.00  -24.000
+CurrentMb=115
+luma,mode=0
+0  7 -7  0  21.00  14.000
+CurrentMb=116
+luma,mode=0
+0  0  7  0  20.00  25.000
+CurrentMb=117
+luma,mode=0
+0  1  1  0  19.00  18.000
+CurrentMb=118
+luma,mode=0
+0 -1  0  0  17.00  19.000
+CurrentMb=119
+luma,mode=0
+0 -3  0  0  15.00  20.000
+CurrentMb=120
+luma,mode=0
+0  0  0  0  7.00  19.000
+CurrentMb=121
+luma,mode=0
+0 -6  0  0  8.00  16.000
+CurrentMb=122
+luma,mode=0
+0  1  0  0  8.00  12.000
+CurrentMb=123
+luma,mode=0
+0  1 -7  0  9.00  21.000
+CurrentMb=124
+luma,mode=0
+0  7 -4  0  10.00  11.000
+CurrentMb=125
+luma,mode=0
+0  1  4  0  12.00  19.000
+CurrentMb=126
+luma,mode=0
+0  5  0  0  13.00  15.000
+CurrentMb=127
+luma,mode=0
+0 -5  0  0  15.00  17.000
+CurrentMb=128
+luma,mode=0
+0 -1  0  0  17.00  19.000
+CurrentMb=129
+luma,mode=0
+0  0  0  0  19.00  20.000
+CurrentMb=130
+luma,mode=0
+0  3  1  0  21.00  22.000
+CurrentMb=131
+luma,mode=0
+0  4  0  0  23.00  17.000
+CurrentMb=132
+luma,mode=0
+0 -1 -5  0  25.00  20.000
+CurrentMb=133
+luma,mode=0
+0  1  0  0  26.00  17.000
+CurrentMb=134
+luma,mode=0
+0 -7 -1  0  27.00  18.000
+CurrentMb=135
+luma,mode=0
+0  2  6  0  28.00  15.000
+CurrentMb=136
+luma,mode=0
+0 -7  4  0  28.00  17.000
+CurrentMb=137
+luma,mode=0
+0  0 -4  0  28.00  24.000
+CurrentMb=138
+luma,mode=0
+0  0 -1  0  27.00  20.000
+CurrentMb=139
+luma,mode=0
+0 -1  0  0  26.00  18.000
+CurrentMb=140
+luma,mode=0
+0  0 -1  0  25.00  21.000
+CurrentMb=141
+luma,mode=0
+0  5  1  0  23.00  24.000
+CurrentMb=142
+luma,mode=0
+0  0 -6  0  22.00  20.000
+CurrentMb=143
+luma,mode=0
+0 -4  1  0  21.00  15.000
+CurrentMb=144
+luma,mode=0
+0  6  5  0  20.00  13.000
+CurrentMb=145
+luma,mode=0
+0  0  4  0  19.00  15.000
+CurrentMb=146
+luma,mode=0
+0 -7 -3  0  18.00  15.000
+CurrentMb=147
+luma,mode=0
+0 -5 -7  0  17.00  9.000
+CurrentMb=148
+luma,mode=0
+0 -7  3  0  17.00  -14.000
+CurrentMb=149
+luma,mode=0
+0  7  5  0  17.00  5.000
+CurrentMb=150
+luma,mode=0
+0  0  2  0  18.00  10.000
+CurrentMb=151
+luma,mode=0
+0  3  6  0  18.00  19.000
+CurrentMb=152
+luma,mode=0
+0 -7 -6  0  19.00  10.000
+CurrentMb=153
+luma,mode=0
+0  0  0  0  20.00  15.000
+CurrentMb=154
+luma,mode=0
+0 -4  7  0  21.00  11.000
+CurrentMb=155
+luma,mode=0
+0  7  7  0  20.00  8.000
+CurrentMb=156
+luma,mode=0
+0  1 -1  0  20.00  21.000
+CurrentMb=157
+luma,mode=0
+0  6 -5  0  19.00  13.000
+CurrentMb=158
+luma,mode=0
+0  0 -5  0  17.00  17.000
+CurrentMb=159
+luma,mode=0
+0 -3 -7  0  15.00  21.000
+CurrentMb=160
+luma,mode=0
+0  7  0  0  7.00  13.000
+CurrentMb=161
+luma,mode=0
+0  3  0  0  8.00  16.000
+CurrentMb=162
+luma,mode=0
+0 -2  0  0  9.00  16.000
+CurrentMb=163
+luma,mode=0
+0  7  7  0  10.00  13.000
+CurrentMb=164
+luma,mode=0
+0  0  0  0  11.00  21.000
+CurrentMb=165
+luma,mode=0
+0  1  0  0  12.00  20.000
+CurrentMb=166
+luma,mode=0
+0  2  0  0  13.00  21.000
+CurrentMb=167
+luma,mode=0
+0  2  0  0  14.00  20.000
+CurrentMb=168
+luma,mode=0
+0  5  0  0  16.00  19.000
+CurrentMb=169
+luma,mode=0
+0 -6  0  0  18.00  21.000
+CurrentMb=170
+luma,mode=0
+0 -2  0  0  20.00  21.000
+CurrentMb=171
+luma,mode=0
+0  3  7  0  22.00  15.000
+CurrentMb=172
+luma,mode=0
+0  6 -2  0  24.00  24.000
+CurrentMb=173
+luma,mode=0
+0  7  6  0  25.00  13.000
+CurrentMb=174
+luma,mode=0
+0 -2  5  0  26.00  16.000
+CurrentMb=175
+luma,mode=0
+0  0 -4  0  26.00  17.000
+CurrentMb=176
+luma,mode=0
+0  7  1  0  26.00  18.000
+CurrentMb=177
+luma,mode=0
+0  2  7  0  26.00  21.000
+CurrentMb=178
+luma,mode=0
+0 -1 -2  0  25.00  18.000
+CurrentMb=179
+luma,mode=0
+0  0 -2  0  24.00  18.000
+CurrentMb=180
+luma,mode=0
+0  1  0  0  23.00  23.000
+CurrentMb=181
+luma,mode=0
+0  7 -1  0  22.00  21.000
+CurrentMb=182
+luma,mode=0
+0  0 -1  0  21.00  20.000
+CurrentMb=183
+luma,mode=0
+0  0  3  0  20.00  22.000
+CurrentMb=184
+luma,mode=0
+0 -4  6  0  19.00  15.000
+CurrentMb=185
+luma,mode=0
+0 -5 -6  0  18.00  10.000
+CurrentMb=186
+luma,mode=0
+0  7  6  0  18.00  15.000
+CurrentMb=187
+luma,mode=0
+0  0  3  0  17.00  21.000
+CurrentMb=188
+luma,mode=0
+0  7  4  0  17.00  8.000
+CurrentMb=189
+luma,mode=0
+0 -4  4  0  17.00  11.000
+CurrentMb=190
+luma,mode=0
+0  5  4  0  17.00  7.000
+CurrentMb=191
+luma,mode=0
+0  1  3  0  18.00  12.000
+CurrentMb=192
+luma,mode=0
+0 -6  1  0  19.00  19.000
+CurrentMb=193
+luma,mode=0
+0  4  1  0  19.00  11.000
+CurrentMb=194
+luma,mode=0
+0 -7  7  0  20.00  14.000
+CurrentMb=195
+luma,mode=0
+0  6 -3  0  20.00  7.000
+CurrentMb=196
+luma,mode=0
+0 -4 -7  0  19.00  10.000
+CurrentMb=197
+luma,mode=0
+0  0  2  0  18.00  21.000
+CurrentMb=198
+luma,mode=0
+0 -1 -7  0  16.00  13.000
+CurrentMb=199
+luma,mode=0
+0  0 -3  0  15.00  20.000
+CurrentMb=200
+luma,mode=0
+0  0 -7  0  7.00  10.000
+CurrentMb=201
+luma,mode=0
+0  6 -6  0  8.00  13.000
+CurrentMb=202
+luma,mode=0
+0 -7  6  0  9.00  14.000
+CurrentMb=203
+luma,mode=0
+0  2  1  0  10.00  17.000
+CurrentMb=204
+luma,mode=0
+0 -7  3  0  11.00  18.000
+CurrentMb=205
+luma,mode=0
+0  7 -5  0  12.00  18.000
+CurrentMb=206
+luma,mode=0
+0 -3  6  0  13.00  19.000
+CurrentMb=207
+luma,mode=0
+0  4 -2  0  14.00  14.000
+CurrentMb=208
+luma,mode=0
+0  0  0  0  16.00  21.000
+CurrentMb=209
+luma,mode=0
+0  0  4  0  18.00  21.000
+CurrentMb=210
+luma,mode=0
+0  2 -5  0  20.00  17.000
+CurrentMb=211
+luma,mode=0
+0  0 -2  0  21.00  20.000
+CurrentMb=212
+luma,mode=0
+0  5 -7  0  22.00  14.000
+CurrentMb=213
+luma,mode=0
+0  0  6  0  23.00  19.000
+CurrentMb=214
+luma,mode=0
+0  0  0  0  24.00  19.000
+CurrentMb=215
+luma,mode=0
+0 -6 -5  0  24.00  19.000
+CurrentMb=216
+luma,mode=0
+0 -4  1  0  24.00  15.000
+CurrentMb=217
+luma,mode=0
+0  0 -5  0  24.00  20.000
+CurrentMb=218
+luma,mode=0
+0  1  5  0  24.00  12.000
+CurrentMb=219
+luma,mode=0
+0  4  3  0  23.00  19.000
+CurrentMb=220
+luma,mode=0
+0  7  4  0  22.00  16.000
+CurrentMb=221
+luma,mode=0
+0 -2  7  0  21.00  14.000
+CurrentMb=222
+luma,mode=0
+0 -2 -1  0  20.00  21.000
+CurrentMb=223
+luma,mode=0
+0  1 -5  0  19.00  19.000
+CurrentMb=224
+luma,mode=0
+0  2 -4  0  18.00  19.000
+CurrentMb=225
+luma,mode=0
+0 -7  1  0  17.00  12.000
+CurrentMb=226
+luma,mode=0
+0  0 -6  0  17.00  14.000
+CurrentMb=227
+luma,mode=0
+0 -5 -3  0  16.00  8.000
+CurrentMb=228
+luma,mode=0
+0 -5 -6  0  16.00  10.000
+CurrentMb=229
+luma,mode=0
+0  0 -6  0  16.00  13.000
+CurrentMb=230
+luma,mode=0
+0  0  4  0  17.00  14.000
+CurrentMb=231
+luma,mode=0
+0  3  7  0  17.00  16.000
+CurrentMb=232
+luma,mode=0
+0  0  7  0  18.00  21.000
+CurrentMb=233
+luma,mode=0
+0 -1  3  0  19.00  12.000
+CurrentMb=234
+luma,mode=0
+0  0  3  0  19.00  21.000
+CurrentMb=235
+luma,mode=0
+0 -1 -2  0  19.00  15.000
+CurrentMb=236
+luma,mode=0
+0  1  7  0  19.00  20.000
+CurrentMb=237
+luma,mode=0
+0  4  6  0  18.00  12.000
+CurrentMb=238
+luma,mode=0
+0 -5  6  0  16.00  13.000
+CurrentMb=239
+luma,mode=0
+0 -7 -1  0  14.00  16.000
+CurrentMb=240
+luma,mode=0
+0  0 -3  0  7.00  7.000
+CurrentMb=241
+luma,mode=0
+0  0  2  0  8.00  15.000
+CurrentMb=242
+luma,mode=0
+0  3 -2  0  9.00  15.000
+CurrentMb=243
+luma,mode=0
+0 -6 -2  0  10.00  13.000
+CurrentMb=244
+luma,mode=0
+0 -7  0  0  11.00  15.000
+CurrentMb=245
+luma,mode=0
+0  7  0  0  12.00  16.000
+CurrentMb=246
+luma,mode=0
+0 -5  0  0  13.00  20.000
+CurrentMb=247
+luma,mode=0
+0 -1  3  0  14.00  20.000
+CurrentMb=248
+luma,mode=0
+0  0  0  0  15.00  18.000
+CurrentMb=249
+luma,mode=0
+0  0 -7  0  17.00  18.000
+CurrentMb=250
+luma,mode=0
+0  5  4  0  18.00  14.000
+CurrentMb=251
+luma,mode=0
+0  4  2  0  20.00  17.000
+CurrentMb=252
+luma,mode=0
+0 -5  6  0  21.00  19.000
+CurrentMb=253
+luma,mode=0
+0  0 -2  0  21.00  20.000
+CurrentMb=254
+luma,mode=0
+0  0  0  0  22.00  18.000
+CurrentMb=255
+luma,mode=0
+0  2 -7  0  22.00  16.000
+CurrentMb=256
+luma,mode=0
+0  2  7  0  22.00  19.000
+CurrentMb=257
+luma,mode=0
+0  5 -3  0  21.00  12.000
+CurrentMb=258
+luma,mode=0
+0  0 -5  0  21.00  12.000
+CurrentMb=259
+luma,mode=0
+0  2 -7  0  21.00  13.000
+CurrentMb=260
+luma,mode=0
+0 -7 -7  0  20.00  11.000
+CurrentMb=261
+luma,mode=0
+0  7 -4  0  19.00  13.000
+CurrentMb=262
+luma,mode=0
+0  0  0  0  18.00  18.000
+CurrentMb=263
+luma,mode=0
+0 -7 -6  0  17.00  10.000
+CurrentMb=264
+luma,mode=0
+0  0 -2  0  17.00  17.000
+CurrentMb=265
+luma,mode=0
+0  0  0  0  16.00  19.000
+CurrentMb=266
+luma,mode=0
+0 -2  6  0  16.00  16.000
+CurrentMb=267
+luma,mode=0
+0  0  6  0  16.00  16.000
+CurrentMb=268
+luma,mode=0
+0  0  0  0  15.00  8.000
+CurrentMb=269
+luma,mode=0
+0  0  0  0  16.00  23.000
+CurrentMb=270
+luma,mode=0
+0  0 -7  0  16.00  16.000
+CurrentMb=271
+luma,mode=0
+0  1 -7  0  16.00  18.000
+CurrentMb=272
+luma,mode=0
+0 -3 -4  0  17.00  21.000
+CurrentMb=273
+luma,mode=0
+0  6 -5  0  17.00  13.000
+CurrentMb=274
+luma,mode=0
+0  6  7  0  18.00  18.000
+CurrentMb=275
+luma,mode=0
+0  3  3  0  18.00  15.000
+CurrentMb=276
+luma,mode=0
+0  0 -7  0  17.00  20.000
+CurrentMb=277
+luma,mode=0
+0  2 -5  0  17.00  14.000
+CurrentMb=278
+luma,mode=0
+0 -5 -5  0  15.00  12.000
+CurrentMb=279
+luma,mode=0
+0  0  0  0  14.00  19.000
+CurrentMb=280
+luma,mode=0
+0  0  0  0  8.00  24.000
+CurrentMb=281
+luma,mode=0
+0  5  6  0  8.00  11.000
+CurrentMb=282
+luma,mode=0
+0 -5  7  0  9.00  15.000
+CurrentMb=283
+luma,mode=0
+0  5  0  0  10.00  13.000
+CurrentMb=284
+luma,mode=0
+0  0  0  0  10.00  19.000
+CurrentMb=285
+luma,mode=0
+0  6  0  0  11.00  14.000
+CurrentMb=286
+luma,mode=0
+0 -7  0  0  12.00  16.000
+CurrentMb=287
+luma,mode=0
+0  3  4  0  13.00  13.000
+CurrentMb=288
+luma,mode=0
+0 -4  2  0  15.00  17.000
+CurrentMb=289
+luma,mode=0
+0  2  0  0  16.00  20.000
+CurrentMb=290
+luma,mode=0
+0  5  5  0  17.00  22.000
+CurrentMb=291
+luma,mode=0
+0 -7 -6  0  18.00  13.000
+CurrentMb=292
+luma,mode=0
+0  6 -3  0  19.00  17.000
+CurrentMb=293
+luma,mode=0
+0  7 -7  0  19.00  15.000
+CurrentMb=294
+luma,mode=0
+0  0 -7  0  20.00  14.000
+CurrentMb=295
+luma,mode=0
+0  4 -3  0  20.00  20.000
+CurrentMb=296
+luma,mode=0
+0 -5 -1  0  20.00  19.000
+CurrentMb=297
+luma,mode=0
+0  1  7  0  20.00  17.000
+CurrentMb=298
+luma,mode=0
+0  1  5  0  20.00  17.000
+CurrentMb=299
+luma,mode=0
+0  0 -5  0  19.00  17.000
+CurrentMb=300
+luma,mode=0
+0  7  3  0  19.00  20.000
+CurrentMb=301
+luma,mode=0
+0  5 -1  0  18.00  19.000
+CurrentMb=302
+luma,mode=0
+0 -7  0  0  17.00  18.000
+CurrentMb=303
+luma,mode=0
+0  0 -2  0  16.00  14.000
+CurrentMb=304
+luma,mode=0
+0  0  1  0  16.00  22.000
+CurrentMb=305
+luma,mode=0
+0 -2  0  0  15.00  11.000
+CurrentMb=306
+luma,mode=0
+0  0  7  0  15.00  13.000
+CurrentMb=307
+luma,mode=0
+0  0 -6  0  15.00  13.000
+CurrentMb=308
+luma,mode=0
+0 -7  0  0  15.00  16.000
+CurrentMb=309
+luma,mode=0
+0  0  1  0  15.00  18.000
+CurrentMb=310
+luma,mode=0
+0  0 -7  0  15.00  13.000
+CurrentMb=311
+luma,mode=0
+0  0  6  0  15.00  9.000
+CurrentMb=312
+luma,mode=0
+0  1  7  0  16.00  19.000
+CurrentMb=313
+luma,mode=0
+0  1  1  0  16.00  9.000
+CurrentMb=314
+luma,mode=0
+0  0 -5  0  17.00  19.000
+CurrentMb=315
+luma,mode=0
+0  4 -4  0  17.00  19.000
+CurrentMb=316
+luma,mode=0
+0 -2 -6  0  16.00  10.000
+CurrentMb=317
+luma,mode=0
+0  0 -6  0  16.00  18.000
+CurrentMb=318
+luma,mode=0
+0  0 -7  0  14.00  15.000
+CurrentMb=319
+luma,mode=0
+0  0 -1  0  13.00  21.000
+CurrentMb=320
+luma,mode=0
+0  0  6  0  8.00  9.000
+CurrentMb=321
+luma,mode=0
+0  4 -3  0  8.00  11.000
+CurrentMb=322
+luma,mode=0
+0  5 -5  0  9.00  12.000
+CurrentMb=323
+luma,mode=0
+0  1 -5  0  10.00  17.000
+CurrentMb=324
+luma,mode=0
+0  7  7  0  10.00  7.000
+CurrentMb=325
+luma,mode=0
+0  6  0  0  11.00  14.000
+CurrentMb=326
+luma,mode=0
+0 -7  0  0  12.00  12.000
+CurrentMb=327
+luma,mode=0
+0  2 -2  0  13.00  17.000
+CurrentMb=328
+luma,mode=0
+0  7  3  0  14.00  17.000
+CurrentMb=329
+luma,mode=0
+0 -2  3  0  15.00  19.000
+CurrentMb=330
+luma,mode=0
+0  5  6  0  16.00  16.000
+CurrentMb=331
+luma,mode=0
+0  0  0  0  17.00  21.000
+CurrentMb=332
+luma,mode=0
+0  0  0  0  17.00  21.000
+CurrentMb=333
+luma,mode=0
+0  0  0  0  18.00  21.000
+CurrentMb=334
+luma,mode=0
+0  0  2  0  18.00  21.000
+CurrentMb=335
+luma,mode=0
+0  3 -7  0  18.00  16.000
+CurrentMb=336
+luma,mode=0
+0 -7 -3  0  18.00  15.000
+CurrentMb=337
+luma,mode=0
+0 -5 -7  0  18.00  17.000
+CurrentMb=338
+luma,mode=0
+0  0  1  0  18.00  22.000
+CurrentMb=339
+luma,mode=0
+0 -7 -7  0  17.00  14.000
+CurrentMb=340
+luma,mode=0
+0  0  0  0  17.00  22.000
+CurrentMb=341
+luma,mode=0
+0  0 -6  0  16.00  14.000
+CurrentMb=342
+luma,mode=0
+0  0 -1  0  16.00  20.000
+CurrentMb=343
+luma,mode=0
+0  7  6  0  15.00  19.000
+CurrentMb=344
+luma,mode=0
+0  0  2  0  15.00  23.000
+CurrentMb=345
+luma,mode=0
+0  7 -2  0  14.00  14.000
+CurrentMb=346
+luma,mode=0
+0  0  7  0  14.00  21.000
+CurrentMb=347
+luma,mode=0
+0  6 -3  0  14.00  17.000
+CurrentMb=348
+luma,mode=0
+0  7 -7  0  14.00  12.000
+CurrentMb=349
+luma,mode=0
+0 -1 -5  0  14.00  16.000
+CurrentMb=350
+luma,mode=0
+0  0 -7  0  14.00  16.000
+CurrentMb=351
+luma,mode=0
+0  0  0  0  15.00  21.000
+CurrentMb=352
+luma,mode=0
+0  1  0  0  14.00  20.000
+CurrentMb=353
+luma,mode=0
+0  1  0  0  15.00  21.000
+CurrentMb=354
+luma,mode=0
+0  2  3  0  16.00  19.000
+CurrentMb=355
+luma,mode=0
+0 -6  0  0  16.00  18.000
+CurrentMb=356
+luma,mode=0
+0 -3 -6  0  15.00  11.000
+CurrentMb=357
+luma,mode=0
+0  4  0  0  15.00  20.000
+CurrentMb=358
+luma,mode=0
+0  0  0  0  14.00  21.000
+CurrentMb=359
+luma,mode=0
+0 -7 -1  0  12.00  10.000
+CurrentMb=360
+luma,mode=0
+0  0  0  0  8.00  21.000
+CurrentMb=361
+luma,mode=0
+0  6 -4  0  8.00  12.000
+CurrentMb=362
+luma,mode=0
+0 -7  0  0  9.00  11.000
+CurrentMb=363
+luma,mode=0
+0  0  2  0  9.00  20.000
+CurrentMb=364
+luma,mode=0
+0  1  0  0  7.00  19.000
+CurrentMb=365
+luma,mode=0
+0 -1 -1  0  11.00  12.000
+CurrentMb=366
+luma,mode=0
+0 -3 -1  0  12.00  20.000
+CurrentMb=367
+luma,mode=0
+0  4 -7  0  12.00  11.000
+CurrentMb=368
+luma,mode=0
+0  3  0  0  13.00  18.000
+CurrentMb=369
+luma,mode=0
+0  0  7  0  14.00  20.000
+CurrentMb=370
+luma,mode=0
+0 -1  0  0  14.00  13.000
+CurrentMb=371
+luma,mode=0
+0 -3  0  0  15.00  17.000
+CurrentMb=372
+luma,mode=0
+0  0  0  0  16.00  19.000
+CurrentMb=373
+luma,mode=0
+0  0 -7  0  16.00  19.000
+CurrentMb=374
+luma,mode=0
+0  0 -5  0  16.00  16.000
+CurrentMb=375
+luma,mode=0
+0 -7 -5  0  16.00  17.000
+CurrentMb=376
+luma,mode=0
+0  0  0  0  17.00  21.000
+CurrentMb=377
+luma,mode=0
+0  0  0  0  14.00  21.000
+CurrentMb=378
+luma,mode=0
+0  1  0  0  11.00  20.000
+CurrentMb=379
+luma,mode=0
+0  0  0  0  16.00  20.000
+CurrentMb=380
+luma,mode=0
+0  0 -7  0  15.00  12.000
+CurrentMb=381
+luma,mode=0
+0  0  0  0  15.00  21.000
+CurrentMb=382
+luma,mode=0
+0  0  0  0  14.00  20.000
+CurrentMb=383
+luma,mode=0
+0  0  3  0  14.00  27.000
+CurrentMb=384
+luma,mode=0
+0 -6 -6  0  14.00  24.000
+CurrentMb=385
+luma,mode=0
+0 -5  7  0  13.00  10.000
+CurrentMb=386
+luma,mode=0
+0 -2 -6  0  13.00  29.000
+CurrentMb=387
+luma,mode=0
+0 -7 -1  0  13.00  19.000
+CurrentMb=388
+luma,mode=0
+0  7  2  0  13.00  20.000
+CurrentMb=389
+luma,mode=0
+0 -2  1  0  13.00  20.000
+CurrentMb=390
+luma,mode=0
+0 -1  6  0  13.00  21.000
+CurrentMb=391
+luma,mode=0
+0  0  3  0  14.00  11.000
+CurrentMb=392
+luma,mode=0
+0  1  0  0  6.00  20.000
+CurrentMb=393
+luma,mode=0
+0  1  0  0  10.00  20.000
+CurrentMb=394
+luma,mode=0
+0  1 -7  0  14.00  25.000
+CurrentMb=395
+luma,mode=0
+0 -6 -5  0  14.00  26.000
+CurrentMb=396
+luma,mode=0
+0  1 -1  0  14.00  17.000
+CurrentMb=397
+luma,mode=0
+0  0  0  0  12.00  20.000
+CurrentMb=398
+luma,mode=0
+0  5  0  0  13.00  22.000
+CurrentMb=399
+luma,mode=0
+0  0  0  0  12.00  17.000
+CurrentMb=400
+luma,mode=0
+0  0  0  0  7.00  6.000
+CurrentMb=401
+luma,mode=0
+0  6  2  0  8.00  9.000
+CurrentMb=402
+luma,mode=0
+0 -7  0  0  9.00  7.000
+CurrentMb=403
+luma,mode=0
+0  1 -1  0  9.00  20.000
+CurrentMb=404
+luma,mode=0
+0  1  0  0  6.00  21.000
+CurrentMb=405
+luma,mode=0
+0  1  0  0  10.00  19.000
+CurrentMb=406
+luma,mode=0
+0  4  7  0  11.00  14.000
+CurrentMb=407
+luma,mode=0
+0  0  0  0  12.00  23.000
+CurrentMb=408
+luma,mode=0
+0  0 -3  0  12.00  17.000
+CurrentMb=409
+luma,mode=0
+0  0 -5  0  13.00  18.000
+CurrentMb=410
+luma,mode=0
+0  2  0  0  13.00  20.000
+CurrentMb=411
+luma,mode=0
+0  7  3  0  13.00  14.000
+CurrentMb=412
+luma,mode=0
+0 -3 -3  0  14.00  15.000
+CurrentMb=413
+luma,mode=0
+0  0 -7  0  14.00  14.000
+CurrentMb=414
+luma,mode=0
+0  7  0  0  15.00  21.000
+CurrentMb=415
+luma,mode=0
+0 -3  6  0  15.00  11.000
+CurrentMb=416
+luma,mode=0
+0 -6  7  0  15.00  17.000
+CurrentMb=417
+luma,mode=0
+0  0  0  0  12.00  21.000
+CurrentMb=418
+luma,mode=0
+0  0  0  0  10.00  20.000
+CurrentMb=419
+luma,mode=0
+0  0  0  0  14.00  23.000
+CurrentMb=420
+luma,mode=0
+0 -2  6  0  14.00  14.000
+CurrentMb=421
+luma,mode=0
+0 -4 -4  0  13.00  13.000
+CurrentMb=422
+luma,mode=0
+0  0  0  0  13.00  20.000
+CurrentMb=423
+luma,mode=0
+0  7 -7  0  13.00  14.000
+CurrentMb=424
+luma,mode=0
+0  0 -6  0  12.00  11.000
+CurrentMb=425
+luma,mode=0
+0 -7  1  0  12.00  22.000
+CurrentMb=426
+luma,mode=0
+0  0 -1  0  12.00  21.000
+CurrentMb=427
+luma,mode=0
+0  5  0  0  12.00  23.000
+CurrentMb=428
+luma,mode=0
+0  7  0  0  12.00  19.000
+CurrentMb=429
+luma,mode=0
+0  0 -5  0  12.00  21.000
+CurrentMb=430
+luma,mode=0
+0  6  4  0  12.00  20.000
+CurrentMb=431
+luma,mode=0
+0 -2  4  0  12.00  19.000
+CurrentMb=432
+luma,mode=0
+0  0  0  0  12.00  18.000
+CurrentMb=433
+luma,mode=0
+0  1  0  0  12.00  24.000
+CurrentMb=434
+luma,mode=0
+0 -5  5  0  13.00  31.000
+CurrentMb=435
+luma,mode=0
+0 -7  7  0  13.00  20.000
+CurrentMb=436
+luma,mode=0
+0  0  0  0  12.00  20.000
+CurrentMb=437
+luma,mode=0
+0  0  0  0  4.00  20.000
+CurrentMb=438
+luma,mode=0
+0  0  0  0  9.00  21.000
+CurrentMb=439
+luma,mode=0
+0  0  0  0  8.00  20.000
+CurrentMb=440
+luma,mode=0
+0  5 -4  0  7.00  10.000
+CurrentMb=441
+luma,mode=0
+0  0 -6  0  8.00  15.000
+CurrentMb=442
+luma,mode=0
+0 -3  3  0  8.00  7.000
+CurrentMb=443
+luma,mode=0
+0  0  0  0  9.00  22.000
+CurrentMb=444
+luma,mode=0
+0  0  0  0  6.00  18.000
+CurrentMb=445
+luma,mode=0
+0  1  1  0  10.00  19.000
+CurrentMb=446
+luma,mode=0
+0  2  4  0  10.00  30.000
+CurrentMb=447
+luma,mode=0
+0  0 -7  0  11.00  12.000
+CurrentMb=448
+luma,mode=0
+0  0 -5  0  11.00  20.000
+CurrentMb=449
+luma,mode=0
+0 -2 -3  0  11.00  12.000
+CurrentMb=450
+luma,mode=0
+0  0  2  0  12.00  19.000
+CurrentMb=451
+luma,mode=0
+0  6  0  0  12.00  19.000
+CurrentMb=452
+luma,mode=0
+0  0 -5  0  12.00  15.000
+CurrentMb=453
+luma,mode=0
+0  7  5  0  13.00  16.000
+CurrentMb=454
+luma,mode=0
+0  1  7  0  13.00  17.000
+CurrentMb=455
+luma,mode=0
+0  0  0  0  13.00  21.000
+CurrentMb=456
+luma,mode=0
+0 -4  7  0  13.00  18.000
+CurrentMb=457
+luma,mode=0
+0  0  0  0  17.00  19.000
+CurrentMb=458
+luma,mode=0
+0  0  0  0  17.00  19.000
+CurrentMb=459
+luma,mode=0
+0  1  0  0  12.00  21.000
+CurrentMb=460
+luma,mode=0
+0  4  0  0  12.00  20.000
+CurrentMb=461
+luma,mode=0
+0  0  0  0  12.00  19.000
+CurrentMb=462
+luma,mode=0
+0 -7 -1  0  11.00  14.000
+CurrentMb=463
+luma,mode=0
+0  0  0  0  11.00  21.000
+CurrentMb=464
+luma,mode=0
+0  0  1  0  11.00  19.000
+CurrentMb=465
+luma,mode=0
+0  0  7  0  11.00  23.000
+CurrentMb=466
+luma,mode=0
+0  3  3  0  11.00  21.000
+CurrentMb=467
+luma,mode=0
+0  4  7  0  11.00  23.000
+CurrentMb=468
+luma,mode=0
+0 -2  5  0  11.00  20.000
+CurrentMb=469
+luma,mode=0
+0  2 -3  0  11.00  19.000
+CurrentMb=470
+luma,mode=0
+0 -1  0  0  8.00  20.000
+CurrentMb=471
+luma,mode=0
+0  1  2  0  9.00  24.000
+CurrentMb=472
+luma,mode=0
+0 -1  2  0  11.00  14.000
+CurrentMb=473
+luma,mode=0
+0 -3  2  0  13.00  15.000
+CurrentMb=474
+luma,mode=0
+0 -6  7  0  10.00  7.000
+CurrentMb=475
+luma,mode=0
+0  5 -3  0  9.00  19.000
+CurrentMb=476
+luma,mode=0
+0  0  0  0  4.00  20.000
+CurrentMb=477
+luma,mode=0
+0  0  0  0  2.00  20.000
+CurrentMb=478
+luma,mode=0
+0  0  0  0  5.00  20.000
+CurrentMb=479
+luma,mode=0
+0  0  1  0  10.00  19.000
+CurrentMb=480
+luma,mode=0
+0  7 -6  0  7.00  8.000
+CurrentMb=481
+luma,mode=0
+0 -2  2  0  9.00  20.000
+CurrentMb=482
+luma,mode=0
+0 -1  1  0  12.00  20.000
+CurrentMb=483
+luma,mode=0
+0  0  0  0  7.00  22.000
+CurrentMb=484
+luma,mode=0
+0  0  0  0  6.00  19.000
+CurrentMb=485
+luma,mode=0
+0  0  0  0  8.00  20.000
+CurrentMb=486
+luma,mode=0
+0  4  6  0  8.00  21.000
+CurrentMb=487
+luma,mode=0
+0  2  3  0  10.00  13.000
+CurrentMb=488
+luma,mode=0
+0  0  5  0  10.00  25.000
+CurrentMb=489
+luma,mode=0
+0 -1 -1  0  10.00  27.000
+CurrentMb=490
+luma,mode=0
+0  0  0  0  10.00  20.000
+CurrentMb=491
+luma,mode=0
+0 -7 -7  0  10.00  22.000
+CurrentMb=492
+luma,mode=0
+0  7  0  0  11.00  19.000
+CurrentMb=493
+luma,mode=0
+0  0  3  0  11.00  18.000
+CurrentMb=494
+luma,mode=0
+0  0 -1  0  11.00  20.000
+CurrentMb=495
+luma,mode=0
+0 -1  0  0  11.00  20.000
+CurrentMb=496
+luma,mode=0
+0 -5 -7  0  11.00  16.000
+CurrentMb=497
+luma,mode=0
+0  0  0  0  8.00  20.000
+CurrentMb=498
+luma,mode=0
+0 -2  2  0  18.00  18.000
+CurrentMb=499
+luma,mode=0
+0  1  1  0  11.00  13.000
+CurrentMb=500
+luma,mode=0
+0  0 -1  0  11.00  22.000
+CurrentMb=501
+luma,mode=0
+0  0 -3  0  10.00  10.000
+CurrentMb=502
+luma,mode=0
+0  0  3  0  10.00  22.000
+CurrentMb=503
+luma,mode=0
+0 -2 -7  0  10.00  15.000
+CurrentMb=504
+luma,mode=0
+0 -5 -7  0  10.00  24.000
+CurrentMb=505
+luma,mode=0
+0 -7 -3  0  10.00  16.000
+CurrentMb=506
+luma,mode=0
+0 -6 -6  0  10.00  16.000
+CurrentMb=507
+luma,mode=0
+0 -4 -4  0  10.00  18.000
+CurrentMb=508
+luma,mode=0
+0 -4 -7  0  10.00  20.000
+CurrentMb=509
+luma,mode=0
+0 -1  0  0  8.00  21.000
+CurrentMb=510
+luma,mode=0
+0 -2  0  0  7.00  20.000
+CurrentMb=511
+luma,mode=0
+0  0  0  0  7.00  21.000
+CurrentMb=512
+luma,mode=0
+0  0  2  0  5.00  18.000
+CurrentMb=513
+luma,mode=0
+0  0  3  0  5.00  19.000
+CurrentMb=514
+luma,mode=0
+0  2  7  0  10.00  23.000
+CurrentMb=515
+luma,mode=0
+0  0  0  0  5.00  19.000
+CurrentMb=516
+luma,mode=0
+0  0  0  0  4.00  19.000
+CurrentMb=517
+luma,mode=0
+0  0  0  0  2.00  20.000
+CurrentMb=518
+luma,mode=0
+0  0  0  0  1.00  20.000
+CurrentMb=519
+luma,mode=0
+0  0  0  0  8.00  20.000
+CurrentMb=520
+luma,mode=0
+0  0  2  0  8.00  14.000
+CurrentMb=521
+luma,mode=0
+0  1  0  0  11.00  20.000
+CurrentMb=522
+luma,mode=0
+0  6 -5  0  7.00  11.000
+CurrentMb=523
+luma,mode=0
+0  0  0  0  8.00  20.000
+CurrentMb=524
+luma,mode=0
+0 -1  0  0  5.00  20.000
+CurrentMb=525
+luma,mode=0
+0  0  0  0  6.00  23.000
+CurrentMb=526
+luma,mode=0
+0  0  1  0  8.00  19.000
+CurrentMb=527
+luma,mode=0
+0  7  0  0  9.00  19.000
+CurrentMb=528
+luma,mode=0
+0 -4 -7  0  9.00  18.000
+CurrentMb=529
+luma,mode=0
+0 -1 -1  0  5.00  18.000
+CurrentMb=530
+luma,mode=0
+0 -1  0  0  4.00  19.000
+CurrentMb=531
+luma,mode=0
+0 -3 -3  0  9.00  10.000
+CurrentMb=532
+luma,mode=0
+0  7 -7  0  9.00  8.000
+CurrentMb=533
+luma,mode=0
+0 -4 -7  0  9.00  8.000
+CurrentMb=534
+luma,mode=0
+0  0 -1  0  10.00  19.000
+CurrentMb=535
+luma,mode=0
+0 -7  0  0  10.00  20.000
+CurrentMb=536
+luma,mode=0
+0  0 -1  0  10.00  20.000
+CurrentMb=537
+luma,mode=0
+0  0  0  0  9.00  19.000
+CurrentMb=538
+luma,mode=0
+0 -5 -2  0  11.00  22.000
+CurrentMb=539
+luma,mode=0
+0 -5 -3  0  17.00  15.000
+CurrentMb=540
+luma,mode=0
+0  1  0  0  11.00  21.000
+CurrentMb=541
+luma,mode=0
+0  2  0  0  10.00  19.000
+CurrentMb=542
+luma,mode=0
+0  0  0  0  10.00  19.000
+CurrentMb=543
+luma,mode=0
+0  0  0  0  10.00  20.000
+CurrentMb=544
+luma,mode=0
+0  0  0  0  10.00  19.000
+CurrentMb=545
+luma,mode=0
+0  0  0  0  10.00  20.000
+CurrentMb=546
+luma,mode=0
+0  2  0  0  10.00  21.000
+CurrentMb=547
+luma,mode=0
+0  2  0  0  10.00  21.000
+CurrentMb=548
+luma,mode=0
+0 -2  0  0  10.00  19.000
+CurrentMb=549
+luma,mode=0
+0  1  1  0  10.00  19.000
+CurrentMb=550
+luma,mode=0
+0 -2  0  0  8.00  18.000
+CurrentMb=551
+luma,mode=3.0
+205 -1  0  0  3.00  20.000
+luma,mode=3.0
+205  0  0  0  9.00  33.000
+luma,mode=3.3
+205 -2  1  0  6.00  17.000
+luma,mode=3.3
+205 -1 -1  0  12.00  22.000
+luma,mode=3.3
+205 -2  0  0  26.00  24.000
+luma,mode=3.3
+205  0  0  0  35.00  18.000
+luma,mode=3.1
+205 -2 -7  0  10.00  -28.000
+luma,mode=3.1
+205 -1  0  0  12.00  13.000
+CurrentMb=552
+luma,mode=0
+0  0  0  0  5.00  17.000
+CurrentMb=553
+luma,mode=0
+0  0  0  0  7.00  17.000
+CurrentMb=554
+luma,mode=0
+0  7  1  0  8.00  -18.000
+CurrentMb=555
+luma,mode=0
+0  0  0  0  8.00  19.000
+CurrentMb=556
+luma,mode=0
+0  0  0  0  3.00  19.000
+CurrentMb=557
+luma,mode=0
+0  0 -1  0  0.00  10.000
+CurrentMb=558
+luma,mode=0
+0  0  0  0  4.00  20.000
+CurrentMb=559
+luma,mode=0
+0  0  0  0  7.00  15.000
+CurrentMb=560
+luma,mode=0
+0  0  4  0  5.00  17.000
+CurrentMb=561
+luma,mode=0
+0  1 -1  0  6.00  8.000
+CurrentMb=562
+luma,mode=0
+0  7  7  0  7.00  12.000
+CurrentMb=563
+luma,mode=0
+0  0  4  0  8.00  16.000
+CurrentMb=564
+luma,mode=0
+0 -3  7  0  5.00  13.000
+CurrentMb=565
+luma,mode=0
+0 -1 -1  0  6.00  21.000
+CurrentMb=566
+luma,mode=0
+0 -2  5  0  17.00  21.000
+CurrentMb=567
+luma,mode=0
+0  3  4  0  7.00  20.000
+CurrentMb=568
+luma,mode=0
+0 -2  1  0  8.00  6.000
+CurrentMb=569
+luma,mode=0
+0 -1 -1  0  6.00  22.000
+CurrentMb=570
+luma,mode=0
+0 -1 -1  0  4.00  23.000
+CurrentMb=571
+luma,mode=0
+0  0  0  0  9.00  20.000
+CurrentMb=572
+luma,mode=0
+0  6 -1  0  10.00  21.000
+CurrentMb=573
+luma,mode=0
+0  0  0  0  11.00  21.000
+CurrentMb=574
+luma,mode=0
+0  0  0  0  12.00  20.000
+CurrentMb=575
+luma,mode=0
+0  5  0  0  12.00  24.000
+CurrentMb=576
+luma,mode=0
+0  4  0  0  12.00  21.000
+CurrentMb=577
+luma,mode=0
+0  0  0  0  17.00  19.000
+CurrentMb=578
+luma,mode=0
+0 -1  0  0  19.00  15.000
+CurrentMb=579
+luma,mode=0
+0 -7  4  0  15.00  20.000
+CurrentMb=580
+luma,mode=0
+0  3  6  0  12.00  15.000
+CurrentMb=581
+luma,mode=0
+0  2  1  0  12.00  20.000
+CurrentMb=582
+luma,mode=0
+0  0  0  0  11.00  19.000
+CurrentMb=583
+luma,mode=0
+0  0  0  0  12.00  19.000
+CurrentMb=584
+luma,mode=0
+0 -2  7  0  11.00  11.000
+CurrentMb=585
+luma,mode=0
+0 -6  7  0  11.00  17.000
+CurrentMb=586
+luma,mode=0
+0 -5  6  0  13.00  19.000
+CurrentMb=587
+luma,mode=0
+0 -5  4  0  14.00  21.000
+CurrentMb=588
+luma,mode=0
+0 -3  3  0  11.00  21.000
+CurrentMb=589
+luma,mode=0
+0 -3  1  0  14.00  20.000
+CurrentMb=590
+luma,mode=0
+0 -3  1  0  20.00  16.000
+CurrentMb=591
+luma,mode=0
+0 -1  0  0  24.00  19.000
+CurrentMb=592
+luma,mode=0
+0  1  1  0  8.00  11.000
+CurrentMb=593
+luma,mode=0
+0  5  0  0  9.00  14.000
+CurrentMb=594
+luma,mode=0
+0  4 -2  0  11.00  16.000
+CurrentMb=595
+luma,mode=0
+0  0  0  0  6.00  19.000
+CurrentMb=596
+luma,mode=0
+0  0  0  0  1.00  20.000
+CurrentMb=597
+luma,mode=0
+0  0  2  0  0.00  5.000
+CurrentMb=598
+luma,mode=0
+0  0  0  0  3.00  20.000
+CurrentMb=599
+luma,mode=0
+0  0  0  0  8.00  21.000
+CurrentMb=600
+luma,mode=0
+0  0  0  0  6.00  26.000
+CurrentMb=601
+luma,mode=0
+0  7 -7  0  6.00  6.000
+CurrentMb=602
+luma,mode=0
+0 -3  0  0  6.00  10.000
+CurrentMb=603
+luma,mode=0
+0  1  0  0  9.00  22.000
+CurrentMb=604
+luma,mode=0
+0  5 -3  0  6.00  56.000
+CurrentMb=605
+luma,mode=0
+0 -1  0  0  4.00  13.000
+CurrentMb=606
+luma,mode=0
+0 -1  1  0  11.00  19.000
+CurrentMb=607
+luma,mode=0
+0  2  3  0  9.00  13.000
+CurrentMb=608
+luma,mode=0
+0 -2  0  0  9.00  17.000
+CurrentMb=609
+luma,mode=0
+0 -1  0  0  13.00  20.000
+CurrentMb=610
+luma,mode=0
+0 -1  0  0  8.00  19.000
+CurrentMb=611
+luma,mode=0
+0 -1  0  0  5.00  19.000
+CurrentMb=612
+luma,mode=0
+0  0  1  0  9.00  15.000
+CurrentMb=613
+luma,mode=0
+0  3 -1  0  11.00  13.000
+CurrentMb=614
+luma,mode=0
+0  3  0  0  11.00  21.000
+CurrentMb=615
+luma,mode=0
+0 -1 -4  0  11.00  6.000
+CurrentMb=616
+luma,mode=0
+0  3 -2  0  11.00  17.000
+CurrentMb=617
+luma,mode=0
+0  0  0  0  15.00  18.000
+CurrentMb=618
+luma,mode=0
+0  3  6  0  16.00  12.000
+CurrentMb=619
+luma,mode=0
+0  1  1  0  16.00  20.000
+CurrentMb=620
+luma,mode=0
+0  1 -6  0  11.00  -2.000
+CurrentMb=621
+luma,mode=0
+0 -7  7  0  11.00  -4.000
+CurrentMb=622
+luma,mode=0
+0 -2  6  0  11.00  -14.000
+CurrentMb=623
+luma,mode=0
+0 -3  1  0  11.00  10.000
+CurrentMb=624
+luma,mode=0
+0 -7  0  0  11.00  43.000
+CurrentMb=625
+luma,mode=0
+0 -3  7  0  9.00  7.000
+CurrentMb=626
+luma,mode=0
+0  3  5  0  8.00  12.000
+CurrentMb=627
+luma,mode=0
+0  5  5  0  9.00  15.000
+CurrentMb=628
+luma,mode=0
+0 -6  2  0  13.00  22.000
+CurrentMb=629
+luma,mode=0
+0 -4  2  0  13.00  22.000
+CurrentMb=630
+luma,mode=0
+0 -4  1  0  10.00  21.000
+CurrentMb=631
+luma,mode=0
+0 -3  0  0  19.00  11.000
+CurrentMb=632
+luma,mode=0
+0  1 -2  0  10.00  16.000
+CurrentMb=633
+luma,mode=0
+0  0  0  0  10.00  17.000
+CurrentMb=634
+luma,mode=0
+0  2  0  0  14.00  22.000
+CurrentMb=635
+luma,mode=0
+0  0 -3  0  5.00  20.000
+CurrentMb=636
+luma,mode=0
+0  0  0  0  6.00  20.000
+CurrentMb=637
+luma,mode=0
+0  0  0  0  2.00  20.000
+CurrentMb=638
+luma,mode=0
+0  0  0  0  6.00  20.000
+CurrentMb=639
+luma,mode=0
+0  0  1  0  7.00  21.000
+CurrentMb=640
+luma,mode=0
+0  4 -1  0  6.00  16.000
+CurrentMb=641
+luma,mode=0
+0 -3  1  0  7.00  22.000
+CurrentMb=642
+luma,mode=0
+0  6 -3  0  11.00  23.000
+CurrentMb=643
+luma,mode=0
+0 -2  2  0  11.00  18.000
+CurrentMb=644
+luma,mode=0
+0 -2  1  0  8.00  15.000
+CurrentMb=645
+luma,mode=0
+0  0  6  0  4.00  21.000
+CurrentMb=646
+luma,mode=0
+0 -1  0  0  7.00  18.000
+CurrentMb=647
+luma,mode=0
+0 -3  0  0  10.00  19.000
+CurrentMb=648
+luma,mode=0
+0 -2  1  0  6.00  17.000
+CurrentMb=649
+luma,mode=0
+0 -3  0  0  5.00  16.000
+CurrentMb=650
+luma,mode=0
+0 -2  0  0  7.00  20.000
+CurrentMb=651
+luma,mode=0
+0 -1  0  0  4.00  21.000
+CurrentMb=652
+luma,mode=0
+0 -1  1  0  8.00  20.000
+CurrentMb=653
+luma,mode=0
+0  0  0  0  13.00  19.000
+CurrentMb=654
+luma,mode=0
+0  1  0  0  13.00  20.000
+CurrentMb=655
+luma,mode=0
+0  0  0  0  14.00  20.000
+CurrentMb=656
+luma,mode=0
+0  0  0  0  14.00  20.000
+CurrentMb=657
+luma,mode=0
+0  0 -1  0  18.00  19.000
+CurrentMb=658
+luma,mode=0
+0 -1  0  0  16.00  21.000
+CurrentMb=659
+luma,mode=0
+0  0  0  0  27.00  18.000
+CurrentMb=660
+luma,mode=0
+0  0  0  0  13.00  21.000
+CurrentMb=661
+luma,mode=0
+0  2  0  0  13.00  18.000
+CurrentMb=662
+luma,mode=0
+0  1  0  0  12.00  20.000
+CurrentMb=663
+luma,mode=0
+0  0  0  0  17.00  20.000
+CurrentMb=664
+luma,mode=0
+0  0  0  0  16.00  21.000
+CurrentMb=665
+luma,mode=0
+0  0  0  0  16.00  19.000
+CurrentMb=666
+luma,mode=0
+0  0  0  0  16.00  20.000
+CurrentMb=667
+luma,mode=0
+0  0  0  0  13.00  20.000
+CurrentMb=668
+luma,mode=0
+0 -1  0  0  13.00  19.000
+CurrentMb=669
+luma,mode=0
+0 -2  2  0  10.00  19.000
+CurrentMb=670
+luma,mode=0
+0 -2  1  0  6.00  19.000
+CurrentMb=671
+luma,mode=0
+0 -2  1  0  15.00  13.000
+CurrentMb=672
+luma,mode=0
+0 -2  3  0  13.00  15.000
+CurrentMb=673
+luma,mode=0
+0 -2 -1  0  17.00  16.000
+CurrentMb=674
+luma,mode=0
+0 -2  0  0  20.00  20.000
+CurrentMb=675
+luma,mode=0
+0  0  1  0  14.00  18.000
+CurrentMb=676
+luma,mode=0
+0  2  2  0  11.00  24.000
+CurrentMb=677
+luma,mode=0
+0  0  0  0  4.00  20.000
+CurrentMb=678
+luma,mode=0
+0  0  0  0  6.00  20.000
+CurrentMb=679
+luma,mode=0
+0 -1  1  0  6.00  11.000
+CurrentMb=680
+luma,mode=0
+0  5  1  0  6.00  8.000
+CurrentMb=681
+luma,mode=0
+0  6 -4  0  10.00  14.000
+CurrentMb=682
+luma,mode=0
+0 -6 -6  0  13.00  13.000
+CurrentMb=683
+luma,mode=0
+0  0 -3  0  11.00  20.000
+CurrentMb=684
+luma,mode=0
+0 -2  0  0  8.00  26.000
+CurrentMb=685
+luma,mode=0
+0  0  2  0  5.00  30.000
+CurrentMb=686
+luma,mode=0
+0 -7 -7  0  9.00  -6.000
+CurrentMb=687
+luma,mode=0
+0 -4  2  0  10.00  11.000
+CurrentMb=688
+luma,mode=0
+0 -3  1  0  6.00  19.000
+CurrentMb=689
+luma,mode=0
+0 -2  0  0  3.00  22.000
+CurrentMb=690
+luma,mode=0
+0 -2  0  0  4.00  21.000
+CurrentMb=691
+luma,mode=0
+0  1  5  0  10.00  15.000
+CurrentMb=692
+luma,mode=0
+0  1  0  0  18.00  21.000
+CurrentMb=693
+luma,mode=0
+0  0  0  0  21.00  20.000
+CurrentMb=694
+luma,mode=0
+0  0  0  0  22.00  20.000
+CurrentMb=695
+luma,mode=0
+0  7 -5  0  26.00  17.000
+CurrentMb=696
+luma,mode=0
+0  3 -3  0  21.00  15.000
+CurrentMb=697
+luma,mode=0
+0 -1 -1  0  19.00  18.000
+CurrentMb=698
+luma,mode=0
+0 -2  0  0  22.00  20.000
+CurrentMb=699
+luma,mode=0
+0 -3  0  0  30.00  20.000
+CurrentMb=700
+luma,mode=0
+0 -3  0  0  24.00  19.000
+CurrentMb=701
+luma,mode=0
+0 -3  2  0  17.00  23.000
+CurrentMb=702
+luma,mode=0
+0 -3  2  0  20.00  18.000
+CurrentMb=703
+luma,mode=0
+0  0  0  0  23.00  20.000
+CurrentMb=704
+luma,mode=0
+0  1  0  0  20.00  20.000
+CurrentMb=705
+luma,mode=0
+0  0  0  0  23.00  19.000
+CurrentMb=706
+luma,mode=0
+0  0  0  0  26.00  20.000
+CurrentMb=707
+luma,mode=0
+0  0  0  0  27.00  18.000
+CurrentMb=708
+luma,mode=0
+0  0  0  0  23.00  18.000
+CurrentMb=709
+luma,mode=0
+0 -3  4  0  14.00  15.000
+CurrentMb=710
+luma,mode=0
+0  0 -2  0  6.00  16.000
+CurrentMb=711
+luma,mode=0
+0 -4 -1  0  21.00  6.000
+CurrentMb=712
+luma,mode=0
+0 -6  0  0  25.00  17.000
+CurrentMb=713
+luma,mode=0
+0 -5  0  0  23.00  18.000
+CurrentMb=714
+luma,mode=0
+0 -5  1  0  20.00  18.000
+CurrentMb=715
+luma,mode=0
+0 -4 -1  0  20.00  11.000
+CurrentMb=716
+luma,mode=0
+0 -1  3  0  14.00  19.000
+CurrentMb=717
+luma,mode=0
+0  0  0  0  6.00  19.000
+CurrentMb=718
+luma,mode=0
+0  0  0  0  7.00  19.000
+CurrentMb=719
+luma,mode=0
+0  0  0  0  7.00  17.000
+CurrentMb=720
+luma,mode=0
+0  0  0  0  7.00  21.000
+CurrentMb=721
+luma,mode=0
+0  7  1  0  7.00  16.000
+CurrentMb=722
+luma,mode=0
+0 -1 -2  0  8.00  15.000
+CurrentMb=723
+luma,mode=0
+0 -3  0  0  8.00  18.000
+CurrentMb=724
+luma,mode=0
+0 -3  0  0  12.00  19.000
+CurrentMb=725
+luma,mode=0
+0 -2  0  0  7.00  19.000
+CurrentMb=726
+luma,mode=0
+0 -4 -5  0  9.00  -8.000
+CurrentMb=727
+luma,mode=0
+0 -5  2  0  15.00  19.000
+CurrentMb=728
+luma,mode=0
+0 -6  3  0  18.00  14.000
+CurrentMb=729
+luma,mode=0
+0  0 -1  0  5.00  16.000
+CurrentMb=730
+luma,mode=0
+0  4 -6  0  2.00  11.000
+CurrentMb=731
+luma,mode=0
+0  0  0  0  19.00  20.000
+CurrentMb=732
+luma,mode=0
+0 -1  0  0  35.00  20.000
+CurrentMb=733
+luma,mode=0
+0  0  0  0  27.00  19.000
+CurrentMb=734
+luma,mode=0
+0  0  0  0  29.00  20.000
+CurrentMb=735
+luma,mode=0
+0 -7  2  0  21.00  13.000
+CurrentMb=736
+luma,mode=0
+0 -3 -1  0  18.00  20.000
+CurrentMb=737
+luma,mode=0
+0 -2 -1  0  21.00  20.000
+CurrentMb=738
+luma,mode=0
+0 -3 -1  0  23.00  19.000
+CurrentMb=739
+luma,mode=0
+0 -4  0  0  26.00  14.000
+CurrentMb=740
+luma,mode=0
+0 -6  1  0  23.00  14.000
+CurrentMb=741
+luma,mode=0
+0 -7  1  0  18.00  12.000
+CurrentMb=742
+luma,mode=0
+0 -5  2  0  22.00  20.000
+CurrentMb=743
+luma,mode=0
+0  1  0  0  34.00  18.000
+CurrentMb=744
+luma,mode=0
+0  5  0  0  32.00  28.000
+CurrentMb=745
+luma,mode=0
+0  1  0  0  34.00  21.000
+CurrentMb=746
+luma,mode=0
+0  0  0  0  28.00  20.000
+CurrentMb=747
+luma,mode=0
+0  0  0  0  26.00  20.000
+CurrentMb=748
+luma,mode=0
+0  0  0  0  28.00  13.000
+CurrentMb=749
+luma,mode=0
+0 -4  1  0  11.00  12.000
+CurrentMb=750
+luma,mode=0
+0  0 -2  0  6.00  13.000
+CurrentMb=751
+luma,mode=0
+0 -2 -1  0  17.00  14.000
+CurrentMb=752
+luma,mode=0
+0 -7 -1  0  21.00  16.000
+CurrentMb=753
+luma,mode=0
+0 -7 -1  0  16.00  18.000
+CurrentMb=754
+luma,mode=0
+0 -6  0  0  16.00  19.000
+CurrentMb=755
+luma,mode=0
+0 -7  2  0  18.00  25.000
+CurrentMb=756
+luma,mode=0
+0 -3  1  0  11.00  17.000
+CurrentMb=757
+luma,mode=0
+0  0  0  0  12.00  21.000
+CurrentMb=758
+luma,mode=0
+0  0  0  0  9.00  20.000
+CurrentMb=759
+luma,mode=0
+0 -4  1  0  8.00  11.000
+CurrentMb=760
+luma,mode=0
+0  1  0  0  12.00  20.000
+CurrentMb=761
+luma,mode=0
+0 -7  7  0  13.00  10.000
+CurrentMb=762
+luma,mode=0
+0 -4 -4  0  8.00  17.000
+CurrentMb=763
+luma,mode=0
+0 -4 -1  0  5.00  18.000
+CurrentMb=764
+luma,mode=0
+0 -4 -1  0  7.00  15.000
+CurrentMb=765
+luma,mode=0
+0 -3  1  0  4.00  19.000
+CurrentMb=766
+luma,mode=0
+0  7 -7  0  11.00  9.000
+CurrentMb=767
+luma,mode=0
+0 -1 -2  0  18.00  12.000
+CurrentMb=768
+luma,mode=0
+0  1 -1  0  18.00  13.000
+CurrentMb=769
+luma,mode=0
+0  0 -1  0  8.00  19.000
+CurrentMb=770
+luma,mode=0
+0 -1  0  0  4.00  16.000
+CurrentMb=771
+luma,mode=0
+0  0  0  0  7.00  20.000
+CurrentMb=772
+luma,mode=0
+0  0  0  0  22.00  19.000
+CurrentMb=773
+luma,mode=0
+0  0  0  0  21.00  19.000
+CurrentMb=774
+luma,mode=0
+0  0  0  0  28.00  20.000
+CurrentMb=775
+luma,mode=0
+0 -2 -3  0  22.00  22.000
+CurrentMb=776
+luma,mode=0
+0 -2 -3  0  10.00  19.000
+CurrentMb=777
+luma,mode=0
+0 -4 -2  0  23.00  16.000
+CurrentMb=778
+luma,mode=0
+0 -7 -1  0  17.00  16.000
+CurrentMb=779
+luma,mode=0
+0 -5  7  0  20.00  10.000
+CurrentMb=780
+luma,mode=0
+0 -7  1  0  18.00  23.000
+CurrentMb=781
+luma,mode=0
+0 -7  3  0  18.00  11.000
+CurrentMb=782
+luma,mode=0
+0 -3 -1  0  19.00  19.000
+CurrentMb=783
+luma,mode=0
+0  0  1  0  20.00  18.000
+CurrentMb=784
+luma,mode=0
+0  0  0  0  16.00  21.000
+CurrentMb=785
+luma,mode=0
+0 -1  0  0  23.00  20.000
+CurrentMb=786
+luma,mode=0
+0  0  0  0  24.00  17.000
+CurrentMb=787
+luma,mode=0
+0  1  0  0  25.00  19.000
+CurrentMb=788
+luma,mode=0
+0  0  0  0  18.00  18.000
+CurrentMb=789
+luma,mode=0
+0 -3 -2  0  4.00  9.000
+CurrentMb=790
+luma,mode=0
+0 -1  1  0  4.00  23.000
+CurrentMb=791
+luma,mode=0
+0  0  0  0  7.00  16.000
+CurrentMb=792
+luma,mode=0
+0 -7 -2  0  13.00  25.000
+CurrentMb=793
+luma,mode=0
+0 -7 -1  0  13.00  16.000
+CurrentMb=794
+luma,mode=0
+0 -7 -1  0  9.00  16.000
+CurrentMb=795
+luma,mode=0
+0  5  1  0  16.00  21.000
+CurrentMb=796
+luma,mode=0
+0  2  2  0  18.00  20.000
+CurrentMb=797
+luma,mode=0
+0  1  1  0  18.00  17.000
+CurrentMb=798
+luma,mode=0
+0  0  0  0  17.00  20.000
+CurrentMb=799
+luma,mode=0
+0  0 -1  0  17.00  18.000
+CurrentMb=800
+luma,mode=0
+0  0  0  0  15.00  21.000
+CurrentMb=801
+luma,mode=0
+0  1  0  0  14.00  21.000
+CurrentMb=802
+luma,mode=0
+0 -3 -4  0  8.00  11.000
+CurrentMb=803
+luma,mode=0
+0 -4 -2  0  11.00  18.000
+CurrentMb=804
+luma,mode=0
+0 -4 -2  0  7.00  12.000
+CurrentMb=805
+luma,mode=0
+0 -5  2  0  5.00  21.000
+CurrentMb=806
+luma,mode=0
+0 -6  2  0  8.00  15.000
+CurrentMb=807
+luma,mode=0
+0  2  0  0  5.00  23.000
+CurrentMb=808
+luma,mode=0
+0 -1 -1  0  8.00  12.000
+CurrentMb=809
+luma,mode=0
+0  0 -2  0  6.00  18.000
+CurrentMb=810
+luma,mode=0
+0  0  0  0  3.00  19.000
+CurrentMb=811
+luma,mode=0
+0  0  0  0  4.00  16.000
+CurrentMb=812
+luma,mode=0
+0  0  0  0  29.00  21.000
+CurrentMb=813
+luma,mode=0
+0  0  0  0  30.00  17.000
+CurrentMb=814
+luma,mode=0
+0  0  0  0  37.00  20.000
+CurrentMb=815
+luma,mode=0
+0  3 -2  0  37.00  18.000
+CurrentMb=816
+luma,mode=0
+0 -2 -3  0  19.00  14.000
+CurrentMb=817
+luma,mode=0
+0 -6 -2  0  19.00  17.000
+CurrentMb=818
+luma,mode=0
+0 -7 -1  0  7.00  19.000
+CurrentMb=819
+luma,mode=0
+0 -7 -7  0  9.00  5.000
+CurrentMb=820
+luma,mode=0
+0 -7  1  0  13.00  13.000
+CurrentMb=821
+luma,mode=0
+0  3  1  0  16.00  11.000
+CurrentMb=822
+luma,mode=0
+0  0  0  0  27.00  20.000
+CurrentMb=823
+luma,mode=0
+0 -1  0  0  22.00  20.000
+CurrentMb=824
+luma,mode=0
+0 -1  0  0  19.00  20.000
+CurrentMb=825
+luma,mode=0
+0 -5  2  0  31.00  18.000
+CurrentMb=826
+luma,mode=0
+0  0  0  0  35.00  19.000
+CurrentMb=827
+luma,mode=3.0
+205  1  0  0  29.00  21.000
+luma,mode=3.0
+205  1  1  0  15.00  18.000
+luma,mode=3.1
+205  1  0  0  36.00  22.000
+luma,mode=3.1
+205  2 -2  0  29.00  22.000
+luma,mode=3.0
+205  6 -7  0  8.00  22.000
+CurrentMb=828
+luma,mode=0
+0  0 -2  0  5.00  19.000
+CurrentMb=829
+luma,mode=0
+0 -6  4  0  4.00  20.000
+CurrentMb=830
+luma,mode=0
+0 -1  0  0  5.00  18.000
+CurrentMb=831
+luma,mode=0
+0 -3  0  0  4.00  19.000
+CurrentMb=832
+luma,mode=0
+0  1  1  0  6.00  18.000
+CurrentMb=833
+luma,mode=0
+0 -1 -1  0  7.00  20.000
+CurrentMb=834
+luma,mode=0
+0  0  0  0  14.00  21.000
+CurrentMb=835
+luma,mode=0
+0  0  0  0  19.00  20.000
+CurrentMb=836
+luma,mode=0
+0 -1  0  0  16.00  20.000
+CurrentMb=837
+luma,mode=0
+0  0  2  0  15.00  17.000
+CurrentMb=838
+luma,mode=0
+0  0  0  0  22.00  17.000
+CurrentMb=839
+luma,mode=0
+0  0  0  0  22.00  21.000
+CurrentMb=840
+luma,mode=0
+0  0  0  0  18.00  20.000
+CurrentMb=841
+luma,mode=0
+0  2 -1  0  17.00  16.000
+CurrentMb=842
+luma,mode=0
+0  0  0  0  16.00  20.000
+CurrentMb=843
+luma,mode=0
+0  1 -2  0  11.00  18.000
+CurrentMb=844
+luma,mode=0
+0 -5 -2  0  7.00  22.000
+CurrentMb=845
+luma,mode=0
+0 -1 -1  0  7.00  16.000
+CurrentMb=846
+luma,mode=0
+0 -3  0  0  13.00  20.000
+CurrentMb=847
+luma,mode=0
+0 -1  0  0  13.00  18.000
+CurrentMb=848
+luma,mode=0
+0 -3  1  0  13.00  25.000
+CurrentMb=849
+luma,mode=0
+0 -1 -1  0  4.00  19.000
+CurrentMb=850
+luma,mode=0
+0 -3  0  0  2.00  13.000
+CurrentMb=851
+luma,mode=0
+0 -2  1  0  3.00  13.000
+CurrentMb=852
+luma,mode=0
+0  0  0  0  8.00  20.000
+CurrentMb=853
+luma,mode=0
+0 -1  0  0  24.00  21.000
+CurrentMb=854
+luma,mode=0
+0  0  0  0  33.00  17.000
+CurrentMb=855
+luma,mode=0
+0  1  0  0  23.00  21.000
+CurrentMb=856
+luma,mode=0
+0  2  0  0  17.00  21.000
+CurrentMb=857
+luma,mode=0
+0 -3 -3  0  13.00  20.000
+CurrentMb=858
+luma,mode=0
+0 -4 -1  0  9.00  19.000
+CurrentMb=859
+luma,mode=0
+0 -5  0  0  13.00  11.000
+CurrentMb=860
+luma,mode=0
+0  7  2  0  15.00  14.000
+CurrentMb=861
+luma,mode=0
+0  3  2  0  15.00  9.000
+CurrentMb=862
+luma,mode=0
+0  2  0  0  23.00  21.000
+CurrentMb=863
+luma,mode=0
+0 -1  0  0  27.00  16.000
+CurrentMb=864
+luma,mode=0
+0 -2  1  0  25.00  16.000
+CurrentMb=865
+luma,mode=0
+0  0  0  0  36.00  19.000
+CurrentMb=866
+luma,mode=0
+0  5 -3  0  24.00  20.000
+CurrentMb=867
+luma,mode=0
+0  6 -6  0  7.00  25.000
+CurrentMb=868
+luma,mode=0
+0 -5  0  0  5.00  16.000
+CurrentMb=869
+luma,mode=0
+0 -4  0  0  5.00  15.000
+CurrentMb=870
+luma,mode=0
+0 -4  1  0  5.00  14.000
+CurrentMb=871
+luma,mode=0
+0 -5  6  0  5.00  15.000
+CurrentMb=872
+luma,mode=0
+0 -6 -4  0  7.00  25.000
+CurrentMb=873
+luma,mode=0
+0 -2  1  0  12.00  15.000
+CurrentMb=874
+luma,mode=0
+0 -2  2  0  20.00  17.000
+CurrentMb=875
+luma,mode=0
+0  1  0  0  31.00  20.000
+CurrentMb=876
+luma,mode=0
+0  0  0  0  24.00  20.000
+CurrentMb=877
+luma,mode=0
+0  0  0  0  25.00  19.000
+CurrentMb=878
+luma,mode=0
+0  0  0  0  31.00  20.000
+CurrentMb=879
+luma,mode=0
+0  0  0  0  27.00  19.000
+CurrentMb=880
+luma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=881
+luma,mode=0
+0  0 -2  0  26.00  16.000
+CurrentMb=882
+luma,mode=0
+0  0  0  0  19.00  19.000
+CurrentMb=883
+luma,mode=0
+0  0  0  0  17.00  18.000
+CurrentMb=884
+luma,mode=0
+0 -1  0  0  24.00  19.000
+CurrentMb=885
+luma,mode=0
+0  1 -2  0  30.00  19.000
+CurrentMb=886
+luma,mode=0
+0 -2 -1  0  33.00  28.000
+CurrentMb=887
+luma,mode=0
+0 -4  6  0  30.00  -10.000
+CurrentMb=888
+luma,mode=0
+0 -1 -1  0  10.00  19.000
+CurrentMb=889
+luma,mode=0
+0 -2 -1  0  3.00  20.000
+CurrentMb=890
+luma,mode=0
+0 -3  0  0  3.00  19.000
+CurrentMb=891
+luma,mode=0
+0 -3  0  0  3.00  14.000
+CurrentMb=892
+luma,mode=0
+0 -2  1  0  3.00  18.000
+CurrentMb=893
+luma,mode=0
+0  0  1  0  9.00  20.000
+CurrentMb=894
+luma,mode=0
+0  0  1  0  31.00  19.000
+CurrentMb=895
+luma,mode=0
+0  0  0  0  35.00  20.000
+CurrentMb=896
+luma,mode=0
+0  0  0  0  28.00  20.000
+CurrentMb=897
+luma,mode=0
+0 -4  0  0  30.00  26.000
+CurrentMb=898
+luma,mode=0
+0 -2 -1  0  30.00  11.000
+CurrentMb=899
+luma,mode=0
+0 -2 -1  0  27.00  15.000
+CurrentMb=900
+luma,mode=0
+0 -2 -1  0  30.00  16.000
+CurrentMb=901
+luma,mode=0
+0 -2  0  0  28.00  13.000
+CurrentMb=902
+luma,mode=0
+0  0  0  0  27.00  17.000
+CurrentMb=903
+luma,mode=0
+0  0  0  0  27.00  19.000
+CurrentMb=904
+luma,mode=0
+0  1  1  0  29.00  7.000
+CurrentMb=905
+luma,mode=0
+0  0 -2  0  16.00  20.000
+CurrentMb=906
+luma,mode=0
+0 -3 -2  0  8.00  14.000
+CurrentMb=907
+luma,mode=0
+0 -2 -4  0  5.00  19.000
+CurrentMb=908
+luma,mode=0
+0 -7  0  0  5.00  16.000
+CurrentMb=909
+luma,mode=0
+0 -3 -6  0  6.00  10.000
+CurrentMb=910
+luma,mode=0
+0 -5  4  0  4.00  20.000
+CurrentMb=911
+luma,mode=0
+0 -5 -7  0  5.00  16.000
+CurrentMb=912
+luma,mode=0
+0 -7  0  0  7.00  18.000
+CurrentMb=913
+luma,mode=0
+0 -6  7  0  9.00  19.000
+CurrentMb=914
+luma,mode=0
+0  0  4  0  12.00  15.000
+CurrentMb=915
+luma,mode=0
+0  1  4  0  36.00  13.000
+CurrentMb=916
+luma,mode=0
+0  0  0  0  34.00  20.000
+CurrentMb=917
+luma,mode=0
+0  0  0  0  30.00  19.000
+CurrentMb=918
+luma,mode=0
+0 -1  0  0  28.00  18.000
+CurrentMb=919
+luma,mode=0
+0  0  0  0  25.00  18.000
+CurrentMb=920
+luma,mode=0
+0  0  0  0  23.00  20.000
+CurrentMb=921
+luma,mode=0
+0  0  0  0  27.00  20.000
+CurrentMb=922
+luma,mode=0
+0  0  0  0  27.00  20.000
+CurrentMb=923
+luma,mode=0
+0  0  0  0  23.00  20.000
+CurrentMb=924
+luma,mode=0
+0  0  0  0  26.00  20.000
+CurrentMb=925
+luma,mode=0
+0  1  0  0  36.00  20.000
+CurrentMb=926
+luma,mode=0
+0  7 -4  0  25.00  21.000
+CurrentMb=927
+luma,mode=0
+0 -3 -2  0  13.00  24.000
+CurrentMb=928
+luma,mode=0
+0 -2 -2  0  6.00  20.000
+CurrentMb=929
+luma,mode=0
+0 -3  0  0  4.00  17.000
+CurrentMb=930
+luma,mode=0
+0 -4  1  0  5.00  21.000
+CurrentMb=931
+luma,mode=0
+0 -5  1  0  4.00  20.000
+CurrentMb=932
+luma,mode=0
+0 -5  1  0  4.00  18.000
+CurrentMb=933
+luma,mode=0
+0 -3  1  0  4.00  15.000
+CurrentMb=934
+luma,mode=0
+0 -1  1  0  4.00  14.000
+CurrentMb=935
+luma,mode=0
+0 -5  0  0  10.00  16.000
+CurrentMb=936
+luma,mode=0
+0 -2  1  0  27.00  19.000
+CurrentMb=937
+luma,mode=0
+0  0  0  0  35.00  20.000
+CurrentMb=938
+luma,mode=0
+0  0  0  0  32.00  19.000
+CurrentMb=939
+luma,mode=0
+0  1  0  0  29.00  17.000
+CurrentMb=940
+luma,mode=0
+0  0  1  0  32.00  18.000
+CurrentMb=941
+luma,mode=0
+0  1  0  0  32.00  19.000
+CurrentMb=942
+luma,mode=0
+0 -2  0  0  31.00  20.000
+CurrentMb=943
+luma,mode=0
+0 -2  0  0  25.00  21.000
+CurrentMb=944
+luma,mode=0
+0 -1 -4  0  25.00  17.000
+CurrentMb=945
+luma,mode=0
+0 -2 -5  0  8.00  10.000
+CurrentMb=946
+luma,mode=0
+0 -3 -3  0  8.00  18.000
+CurrentMb=947
+luma,mode=0
+0 -7 -3  0  7.00  18.000
+CurrentMb=948
+luma,mode=0
+0 -7 -1  0  6.00  18.000
+CurrentMb=949
+luma,mode=0
+0 -7 -3  0  7.00  16.000
+CurrentMb=950
+luma,mode=0
+0 -5  0  0  4.00  20.000
+CurrentMb=951
+luma,mode=0
+0 -6  1  0  4.00  14.000
+CurrentMb=952
+luma,mode=0
+0  3 -2  0  8.00  12.000
+CurrentMb=953
+luma,mode=0
+0 -7  7  0  8.00  25.000
+CurrentMb=954
+luma,mode=0
+0 -5  4  0  14.00  15.000
+CurrentMb=955
+luma,mode=0
+0 -4  6  0  31.00  11.000
+CurrentMb=956
+luma,mode=0
+0 -1  1  0  35.00  14.000
+CurrentMb=957
+luma,mode=0
+0  0  0  0  32.00  20.000
+CurrentMb=958
+luma,mode=0
+0  1  0  0  29.00  19.000
+CurrentMb=959
+luma,mode=0
+0 -2  0  0  23.00  17.000
+CurrentMb=960
+luma,mode=0
+0  0  0  0  17.00  18.000
+CurrentMb=961
+luma,mode=0
+0 -3  0  0  20.00  14.000
+CurrentMb=962
+luma,mode=0
+0 -1  0  0  25.00  17.000
+CurrentMb=963
+luma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=964
+luma,mode=0
+0  0  0  0  27.00  21.000
+CurrentMb=965
+luma,mode=0
+0  4 -4  0  36.00  15.000
+CurrentMb=966
+luma,mode=0
+0  6 -6  0  16.00  20.000
+CurrentMb=967
+luma,mode=0
+0 -2 -3  0  4.00  20.000
+CurrentMb=968
+luma,mode=0
+0 -3 -2  0  6.00  13.000
+CurrentMb=969
+luma,mode=0
+0 -5 -1  0  5.00  14.000
+CurrentMb=970
+luma,mode=0
+0 -5  0  0  5.00  18.000
+CurrentMb=971
+luma,mode=0
+0 -6  0  0  4.00  19.000
+CurrentMb=972
+luma,mode=0
+0 -6  1  0  4.00  16.000
+CurrentMb=973
+luma,mode=0
+0 -6  2  0  4.00  18.000
+CurrentMb=974
+luma,mode=0
+0 -3  2  0  4.00  21.000
+CurrentMb=975
+luma,mode=0
+0 -5  2  0  7.00  17.000
+CurrentMb=976
+luma,mode=0
+0 -4  5  0  18.00  22.000
+CurrentMb=977
+luma,mode=0
+0 -2  0  0  35.00  16.000
+CurrentMb=978
+luma,mode=0
+0  1  1  0  32.00  15.000
+CurrentMb=979
+luma,mode=0
+0 -1  0  0  31.00  19.000
+CurrentMb=980
+luma,mode=0
+0  0  0  0  35.00  19.000
+CurrentMb=981
+luma,mode=0
+0  0  0  0  30.00  18.000
+CurrentMb=982
+luma,mode=0
+0  0  0  0  33.00  16.000
+CurrentMb=983
+luma,mode=0
+0  6 -1  0  28.00  15.000
+CurrentMb=984
+luma,mode=0
+0  5  0  0  20.00  25.000
+CurrentMb=985
+luma,mode=0
+0 -2 -6  0  15.00  9.000
+CurrentMb=986
+luma,mode=0
+0 -7 -5  0  14.00  17.000
+CurrentMb=987
+luma,mode=0
+0 -7 -4  0  12.00  17.000
+CurrentMb=988
+luma,mode=0
+0 -7 -3  0  7.00  15.000
+CurrentMb=989
+luma,mode=0
+0 -7 -2  0  5.00  20.000
+CurrentMb=990
+luma,mode=0
+0 -6  0  0  3.00  19.000
+CurrentMb=991
+luma,mode=0
+0 -7  0  0  4.00  19.000
+CurrentMb=992
+luma,mode=0
+0 -2 -1  0  8.00  10.000
+CurrentMb=993
+luma,mode=0
+0  7 -7  0  17.00  20.000
+CurrentMb=994
+luma,mode=0
+0 -7  3  0  35.00  18.000
+CurrentMb=995
+luma,mode=0
+0 -7  2  0  27.00  21.000
+CurrentMb=996
+luma,mode=0
+0  0  0  0  28.00  18.000
+CurrentMb=997
+luma,mode=0
+0 -1  0  0  31.00  20.000
+CurrentMb=998
+luma,mode=0
+0  0  0  0  31.00  20.000
+CurrentMb=999
+luma,mode=0
+0 -1  0  0  24.00  19.000
+CurrentMb=1000
+luma,mode=0
+0  6 -7  0  18.00  20.000
+CurrentMb=1001
+luma,mode=0
+0 -1 -4  0  24.00  16.000
+CurrentMb=1002
+luma,mode=0
+0  0  0  0  23.00  20.000
+CurrentMb=1003
+luma,mode=0
+0  0  0  0  22.00  20.000
+CurrentMb=1004
+luma,mode=0
+0  0  0  0  27.00  19.000
+CurrentMb=1005
+luma,mode=0
+0  6 -3  0  30.00  23.000
+CurrentMb=1006
+luma,mode=0
+0  4 -7  0  12.00  18.000
+CurrentMb=1007
+luma,mode=0
+0  3 -6  0  6.00  18.000
+CurrentMb=1008
+luma,mode=0
+0 -4 -5  0  6.00  9.000
+CurrentMb=1009
+luma,mode=0
+0 -7 -4  0  5.00  17.000
+CurrentMb=1010
+luma,mode=0
+0 -7 -3  0  5.00  11.000
+CurrentMb=1011
+luma,mode=0
+0 -7 -6  0  8.00  8.000
+CurrentMb=1012
+luma,mode=0
+0  7  2  0  6.00  -12.000
+CurrentMb=1013
+luma,mode=0
+0  4 -7  0  7.00  -16.000
+CurrentMb=1014
+luma,mode=0
+0 -7  1  0  7.00  20.000
+CurrentMb=1015
+luma,mode=0
+0 -2  4  0  10.00  -12.000
+CurrentMb=1016
+luma,mode=0
+0  1  0  0  17.00  19.000
+CurrentMb=1017
+luma,mode=0
+0  0  0  0  32.00  21.000
+CurrentMb=1018
+luma,mode=0
+0  0  0  0  38.00  19.000
+CurrentMb=1019
+luma,mode=0
+0  1  0  0  33.00  19.000
+CurrentMb=1020
+luma,mode=0
+0  0  0  0  28.00  17.000
+CurrentMb=1021
+luma,mode=0
+0  0 -1  0  33.00  16.000
+CurrentMb=1022
+luma,mode=0
+0 -1 -2  0  31.00  13.000
+CurrentMb=1023
+luma,mode=0
+0  2  0  0  24.00  17.000
+CurrentMb=1024
+luma,mode=0
+0  0  1  0  22.00  17.000
+CurrentMb=1025
+luma,mode=0
+0  0  1  0  19.00  19.000
+CurrentMb=1026
+luma,mode=0
+0 -6 -4  0  13.00  9.000
+CurrentMb=1027
+luma,mode=0
+0 -7 -3  0  15.00  16.000
+CurrentMb=1028
+luma,mode=0
+0 -7 -4  0  20.00  11.000
+CurrentMb=1029
+luma,mode=0
+0 -7 -2  0  13.00  25.000
+CurrentMb=1030
+luma,mode=0
+0 -7  0  0  5.00  17.000
+CurrentMb=1031
+luma,mode=0
+0 -7 -1  0  8.00  13.000
+CurrentMb=1032
+luma,mode=0
+0 -7  1  0  24.00  17.000
+CurrentMb=1033
+luma,mode=0
+0  7 -7  0  26.00  19.000
+CurrentMb=1034
+luma,mode=0
+0  6 -7  0  24.00  15.000
+CurrentMb=1035
+luma,mode=0
+0  0  0  0  24.00  20.000
+CurrentMb=1036
+luma,mode=0
+0  1 -1  0  22.00  17.000
+CurrentMb=1037
+luma,mode=0
+0  1  0  0  22.00  16.000
+CurrentMb=1038
+luma,mode=0
+0  0  0  0  23.00  17.000
+CurrentMb=1039
+luma,mode=0
+0  0  0  0  23.00  17.000
+CurrentMb=1040
+luma,mode=0
+0  0  0  0  23.00  20.000
+CurrentMb=1041
+luma,mode=0
+0  0  0  0  24.00  19.000
+CurrentMb=1042
+luma,mode=0
+0  0  0  0  22.00  16.000
+CurrentMb=1043
+luma,mode=0
+0  0  0  0  21.00  18.000
+CurrentMb=1044
+luma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=1045
+luma,mode=0
+0  0  0  0  34.00  20.000
+CurrentMb=1046
+luma,mode=0
+0 -2 -3  0  23.00  20.000
+CurrentMb=1047
+luma,mode=0
+0 -2 -2  0  8.00  17.000
+CurrentMb=1048
+luma,mode=0
+0 -7 -5  0  7.00  12.000
+CurrentMb=1049
+luma,mode=0
+0  4 -2  0  7.00  20.000
+CurrentMb=1050
+luma,mode=0
+0 -6  7  0  7.00  -8.000
+CurrentMb=1051
+luma,mode=0
+0  1 -7  0  8.00  -6.000
+CurrentMb=1052
+luma,mode=0
+0  7 -7  0  8.00  -14.000
+CurrentMb=1053
+luma,mode=0
+0  0 -7  0  8.00  -12.000
+CurrentMb=1054
+luma,mode=0
+0 -6 -2  0  9.00  15.000
+CurrentMb=1055
+luma,mode=0
+0 -6 -2  0  9.00  5.000
+CurrentMb=1056
+luma,mode=0
+0  2 -1  0  9.00  6.000
+CurrentMb=1057
+luma,mode=0
+0  7  6  0  15.00  25.000
+CurrentMb=1058
+luma,mode=0
+0 -1 -1  0  24.00  20.000
+CurrentMb=1059
+luma,mode=0
+0  0 -1  0  17.00  22.000
+CurrentMb=1060
+luma,mode=0
+0 -1  0  0  21.00  21.000
+CurrentMb=1061
+luma,mode=0
+0 -6  2  0  21.00  17.000
+CurrentMb=1062
+luma,mode=0
+0 -1  1  0  21.00  17.000
+CurrentMb=1063
+luma,mode=0
+0  1  2  0  21.00  14.000
+CurrentMb=1064
+luma,mode=0
+0  0  2  0  16.00  20.000
+CurrentMb=1065
+luma,mode=0
+0  1  0  0  10.00  21.000
+CurrentMb=1066
+luma,mode=0
+0  4  1  0  9.00  19.000
+CurrentMb=1067
+luma,mode=0
+0 -5 -4  0  7.00  15.000
+CurrentMb=1068
+luma,mode=0
+0 -3  0  0  6.00  17.000
+CurrentMb=1069
+luma,mode=0
+0  5 -3  0  7.00  27.000
+CurrentMb=1070
+luma,mode=0
+0 -7  0  0  4.00  17.000
+CurrentMb=1071
+luma,mode=0
+0 -7  0  0  5.00  12.000
+CurrentMb=1072
+luma,mode=0
+0 -7  0  0  6.00  16.000
+CurrentMb=1073
+luma,mode=0
+0 -3  0  0  21.00  20.000
+CurrentMb=1074
+luma,mode=0
+0  4  0  0  29.00  16.000
+CurrentMb=1075
+luma,mode=0
+0  0  0  0  24.00  17.000
+CurrentMb=1076
+luma,mode=0
+0  2  0  0  19.00  22.000
+CurrentMb=1077
+luma,mode=0
+0  4  0  0  17.00  19.000
+CurrentMb=1078
+luma,mode=0
+0  1 -1  0  18.00  16.000
+CurrentMb=1079
+luma,mode=0
+0  0 -1  0  19.00  9.000
+CurrentMb=1080
+luma,mode=0
+0  0  0  0  19.00  20.000
+CurrentMb=1081
+luma,mode=0
+0  1  0  0  25.00  19.000
+CurrentMb=1082
+luma,mode=0
+0  0  0  0  23.00  18.000
+CurrentMb=1083
+luma,mode=0
+0  0  0  0  21.00  20.000
+CurrentMb=1084
+luma,mode=0
+0  0  0  0  31.00  20.000
+CurrentMb=1085
+luma,mode=0
+0  0  0  0  34.00  20.000
+CurrentMb=1086
+luma,mode=0
+0  1  0  0  30.00  20.000
+CurrentMb=1087
+luma,mode=0
+0  1 -1  0  19.00  19.000
+CurrentMb=1088
+luma,mode=0
+0  7  0  0  11.00  17.000
+CurrentMb=1089
+luma,mode=0
+0  2 -5  0  5.00  15.000
+CurrentMb=1090
+luma,mode=0
+0  7 -3  0  4.00  25.000
+CurrentMb=1091
+luma,mode=0
+0 -2  0  0  3.00  29.000
+CurrentMb=1092
+luma,mode=0
+0  3 -3  0  7.00  21.000
+CurrentMb=1093
+luma,mode=0
+0  0  0  0  11.00  21.000
+CurrentMb=1094
+luma,mode=0
+0 -1  0  0  13.00  20.000
+CurrentMb=1095
+luma,mode=0
+0  0  0  0  10.00  20.000
+CurrentMb=1096
+luma,mode=0
+0  0  0  0  12.00  21.000
+CurrentMb=1097
+luma,mode=0
+0 -1  0  0  9.00  16.000
+CurrentMb=1098
+luma,mode=0
+0  1  0  0  10.00  22.000
+CurrentMb=1099
+luma,mode=0
+0  0  0  0  12.00  19.000
+CurrentMb=1100
+luma,mode=0
+0 -2  1  0  16.00  18.000
+CurrentMb=1101
+luma,mode=0
+0  0  6  0  17.00  19.000
+CurrentMb=1102
+luma,mode=0
+0 -6  7  0  21.00  4.000
+CurrentMb=1103
+luma,mode=0
+0 -5  0  0  15.00  17.000
+CurrentMb=1104
+luma,mode=0
+0 -1 -3  0  11.00  7.000
+CurrentMb=1105
+luma,mode=0
+0 -2 -1  0  11.00  17.000
+CurrentMb=1106
+luma,mode=0
+0 -3  0  0  12.00  15.000
+CurrentMb=1107
+luma,mode=0
+0 -7  1  0  14.00  16.000
+CurrentMb=1108
+luma,mode=0
+0 -7  1  0  15.00  23.000
+CurrentMb=1109
+luma,mode=0
+0 -5 -3  0  8.00  42.000
+CurrentMb=1110
+luma,mode=0
+0  7  1  0  5.00  12.000
+CurrentMb=1111
+luma,mode=0
+0  0  0  0  6.00  15.000
+CurrentMb=1112
+luma,mode=0
+0 -2 -3  0  7.00  13.000
+CurrentMb=1113
+luma,mode=0
+0 -4  0  0  22.00  20.000
+CurrentMb=1114
+luma,mode=0
+0 -7  0  0  27.00  20.000
+CurrentMb=1115
+luma,mode=0
+0  0  1  0  21.00  22.000
+CurrentMb=1116
+luma,mode=0
+0  1  1  0  17.00  23.000
+CurrentMb=1117
+luma,mode=0
+0  3  2  0  15.00  22.000
+CurrentMb=1118
+luma,mode=0
+0 -2  3  0  15.00  20.000
+CurrentMb=1119
+luma,mode=0
+0 -1  0  0  18.00  23.000
+CurrentMb=1120
+luma,mode=0
+0  2 -1  0  19.00  21.000
+CurrentMb=1121
+luma,mode=0
+0  0  0  0  22.00  20.000
+CurrentMb=1122
+luma,mode=0
+0  0  0  0  20.00  20.000
+CurrentMb=1123
+luma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=1124
+luma,mode=0
+0  0  0  0  30.00  20.000
+CurrentMb=1125
+luma,mode=0
+0  0  0  0  27.00  20.000
+CurrentMb=1126
+luma,mode=0
+0  2 -3  0  23.00  20.000
+CurrentMb=1127
+luma,mode=0
+0  1  0  0  19.00  19.000
+CurrentMb=1128
+luma,mode=0
+0 -1 -2  0  15.00  14.000
+CurrentMb=1129
+luma,mode=0
+0 -1 -3  0  3.00  14.000
+CurrentMb=1130
+luma,mode=0
+0 -3 -3  0  1.00  14.000
+CurrentMb=1131
+luma,mode=0
+0  0  1  0  2.00  11.000
+CurrentMb=1132
+luma,mode=0
+0  1 -1  0  7.00  25.000
+CurrentMb=1133
+luma,mode=0
+0  3 -2  0  8.00  19.000
+CurrentMb=1134
+luma,mode=0
+0 -1 -1  0  7.00  19.000
+CurrentMb=1135
+luma,mode=0
+0 -3  0  0  9.00  19.000
+CurrentMb=1136
+luma,mode=0
+0 -3  0  0  14.00  16.000
+CurrentMb=1137
+luma,mode=0
+0  0  0  0  13.00  19.000
+CurrentMb=1138
+luma,mode=0
+0  0  0  0  14.00  21.000
+CurrentMb=1139
+luma,mode=0
+0  1  2  0  18.00  30.000
+CurrentMb=1140
+luma,mode=0
+0  3  2  0  22.00  19.000
+CurrentMb=1141
+luma,mode=0
+0  0  3  0  27.00  12.000
+CurrentMb=1142
+luma,mode=0
+0 -7 -2  0  32.00  13.000
+CurrentMb=1143
+luma,mode=0
+0 -7 -1  0  27.00  15.000
+CurrentMb=1144
+luma,mode=0
+0 -7 -2  0  24.00  17.000
+CurrentMb=1145
+luma,mode=0
+0 -7 -3  0  22.00  21.000
+CurrentMb=1146
+luma,mode=0
+0 -7 -6  0  19.00  49.000
+CurrentMb=1147
+luma,mode=0
+0 -7 -1  0  20.00  19.000
+CurrentMb=1148
+luma,mode=0
+0  3  3  0  22.00  -2.000
+CurrentMb=1149
+luma,mode=0
+0 -5  1  0  23.00  13.000
+CurrentMb=1150
+luma,mode=0
+0 -7  6  0  22.00  39.000
+CurrentMb=1151
+luma,mode=0
+0 -5  4  0  18.00  29.000
+CurrentMb=1152
+luma,mode=0
+0 -6  2  0  21.00  28.000
+CurrentMb=1153
+luma,mode=0
+0 -5  0  0  30.00  19.000
+CurrentMb=1154
+luma,mode=0
+0  0  2  0  31.00  20.000
+CurrentMb=1155
+luma,mode=0
+0  0  3  0  27.00  21.000
+CurrentMb=1156
+luma,mode=0
+0  1  1  0  26.00  17.000
+CurrentMb=1157
+luma,mode=0
+0 -1  0  0  24.00  17.000
+CurrentMb=1158
+luma,mode=0
+0  0  0  0  21.00  19.000
+CurrentMb=1159
+luma,mode=0
+0  0  0  0  19.00  22.000
+CurrentMb=1160
+luma,mode=0
+0  0  0  0  14.00  19.000
+CurrentMb=1161
+luma,mode=0
+0  1  0  0  15.00  18.000
+CurrentMb=1162
+luma,mode=0
+0  1  0  0  18.00  17.000
+CurrentMb=1163
+luma,mode=0
+0  0  0  0  23.00  20.000
+CurrentMb=1164
+luma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=1165
+luma,mode=0
+0  0  0  0  22.00  21.000
+CurrentMb=1166
+luma,mode=0
+0  7 -1  0  18.00  17.000
+CurrentMb=1167
+luma,mode=0
+0  0  0  0  19.00  20.000
+CurrentMb=1168
+luma,mode=0
+0  0  0  0  17.00  22.000
+CurrentMb=1169
+luma,mode=0
+0  2  0  0  11.00  20.000
+CurrentMb=1170
+luma,mode=0
+0 -2 -2  0  5.00  19.000
+CurrentMb=1171
+luma,mode=0
+0  0 -3  0  6.00  22.000
+CurrentMb=1172
+luma,mode=0
+0  0 -1  0  8.00  21.000
+CurrentMb=1173
+luma,mode=0
+0  0 -1  0  8.00  21.000
+CurrentMb=1174
+luma,mode=0
+0  2  0  0  9.00  19.000
+CurrentMb=1175
+luma,mode=0
+0 -3  0  0  11.00  19.000
+CurrentMb=1176
+luma,mode=0
+0 -7  0  0  14.00  5.000
+CurrentMb=1177
+luma,mode=0
+0  1  0  0  16.00  14.000
+CurrentMb=1178
+luma,mode=0
+0  7 -1  0  23.00  18.000
+CurrentMb=1179
+luma,mode=0
+0  1  0  0  31.00  15.000
+CurrentMb=1180
+luma,mode=0
+0  2 -7  0  29.00  -6.000
+CurrentMb=1181
+luma,mode=0
+0  1  0  0  29.00  17.000
+CurrentMb=1182
+luma,mode=0
+0  3  0  0  32.00  19.000
+CurrentMb=1183
+luma,mode=0
+0  0  0  0  32.00  20.000
+CurrentMb=1184
+luma,mode=0
+0 -1  0  0  29.00  19.000
+CurrentMb=1185
+luma,mode=0
+0 -6 -1  0  30.00  16.000
+CurrentMb=1186
+luma,mode=0
+0 -2 -3  0  28.00  15.000
+CurrentMb=1187
+luma,mode=0
+0  0  0  0  25.00  20.000
+CurrentMb=1188
+luma,mode=0
+0  0  0  0  26.00  21.000
+CurrentMb=1189
+luma,mode=0
+0 -1  0  0  27.00  21.000
+CurrentMb=1190
+luma,mode=0
+0  0  0  0  28.00  18.000
+CurrentMb=1191
+luma,mode=0
+0  0  0  0  28.00  18.000
+CurrentMb=1192
+luma,mode=0
+0 -2  0  0  24.00  13.000
+CurrentMb=1193
+luma,mode=0
+0 -4  0  0  23.00  24.000
+CurrentMb=1194
+luma,mode=0
+0  0  0  0  25.00  17.000
+CurrentMb=1195
+luma,mode=0
+0  0  0  0  23.00  18.000
+CurrentMb=1196
+luma,mode=0
+0  1 -1  0  19.00  15.000
+CurrentMb=1197
+luma,mode=0
+0  1  0  0  19.00  19.000
+CurrentMb=1198
+luma,mode=0
+0  0  0  0  18.00  20.000
+CurrentMb=1199
+luma,mode=0
+0  0  0  0  18.00  20.000
